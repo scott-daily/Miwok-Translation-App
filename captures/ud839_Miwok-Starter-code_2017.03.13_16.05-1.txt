@@ -1,0 +1,2600 @@
+CURRENT STATS:
+  * com.sec.phone / 1001 / v1:
+           TOTAL: 100% (796KB-0.99MB-1.5MB/424KB-629KB-1.1MB over 21)
+          Imp Fg: 100% (796KB-0.99MB-1.5MB/424KB-629KB-1.1MB over 21)
+  * com.android.systemui / u0a70 / v23:
+           TOTAL: 100% (121MB-188MB-242MB/116MB-183MB-237MB over 20)
+      Persistent: 100% (121MB-188MB-242MB/116MB-183MB-237MB over 20)
+  * com.android.nfc / 1027 / v23:
+           TOTAL: 100% (4.5MB-8.7MB-13MB/3.2MB-7.4MB-11MB over 20)
+      Persistent: 100% (4.5MB-8.7MB-13MB/3.2MB-7.4MB-11MB over 20)
+  * system / 1000 / v23:
+           TOTAL: 100% (165MB-201MB-253MB/157MB-193MB-242MB over 20)
+      Persistent: 100% (165MB-201MB-253MB/157MB-193MB-242MB over 20)
+  * diagandroid.iqd / 1000 / v23:
+           TOTAL: 100% (6.4MB-8.3MB-10MB/5.8MB-7.7MB-9.7MB over 20)
+      Persistent: 100% (6.4MB-8.3MB-10MB/5.8MB-7.7MB-9.7MB over 20)
+  * com.matchboxmobile.wisp / u0a215 / v83:
+           TOTAL: 100% (1.3MB-1.5MB-1.7MB/0.97MB-1.1MB-1.4MB over 20)
+         Service: 100% (1.3MB-1.5MB-1.7MB/0.97MB-1.1MB-1.4MB over 20)
+  * com.android.phone / 1001 / v1:
+           TOTAL: 100% (27MB-37MB-40MB/23MB-33MB-37MB over 20)
+      Persistent: 100% (27MB-37MB-40MB/23MB-33MB-37MB over 20)
+  * com.samsung.android.qconnect:QcBgService / u0a305 / v40:
+           TOTAL: 100% (2.0MB-2.3MB-2.6MB/1.6MB-1.8MB-2.1MB over 21)
+          Imp Fg: 100% (2.0MB-2.3MB-2.6MB/1.6MB-1.8MB-2.1MB over 21)
+  * com.sec.spp.push / u0a44 / v160100000:
+           TOTAL: 100% (7.6MB-8.5MB-9.1MB/6.8MB-7.7MB-8.4MB over 20)
+         Service: 100% (7.6MB-8.5MB-9.1MB/6.8MB-7.7MB-8.4MB over 20)
+  * com.sec.vsimservice / 1000 / v1:
+           TOTAL: 100% (1.4MB-2.1MB-2.6MB/0.91MB-1.6MB-2.0MB over 20)
+      Persistent: 100% (1.4MB-2.1MB-2.6MB/0.91MB-1.6MB-2.0MB over 20)
+  * com.samsung.android.providers.context / u0a296 / v8:
+           TOTAL: 100% (6.9MB-7.5MB-8.2MB/5.3MB-5.9MB-6.6MB over 20)
+      Persistent: 100% (6.9MB-7.5MB-8.2MB/5.3MB-5.9MB-6.6MB over 20)
+  * com.ipsec.service / 1000 / v8:
+           TOTAL: 100% (647KB-685KB-734KB/288KB-349KB-416KB over 21)
+          Imp Fg: 100% (647KB-685KB-734KB/288KB-349KB-416KB over 21)
+  * com.android.bluetooth / 1002 / v23:
+           TOTAL: 100% (5.1MB-7.5MB-8.9MB/3.5MB-5.7MB-6.9MB over 21)
+          Imp Fg: 100% (5.1MB-7.5MB-8.9MB/3.5MB-5.7MB-6.9MB over 21)
+  * com.samsung.ucs.ucspinpad / 1000 / v1:
+           TOTAL: 100% (629KB-682KB-756KB/292KB-357KB-428KB over 21)
+          Imp Fg: 100% (629KB-682KB-756KB/292KB-357KB-428KB over 21)
+  * com.sec.imsservice:CloudMessageService / 1000 / v1:
+           TOTAL: 100% (1.7MB-2.8MB-4.4MB/1.0MB-2.0MB-3.6MB over 20)
+      Persistent: 100% (1.7MB-2.8MB-4.4MB/1.0MB-2.0MB-3.6MB over 20)
+  * com.android.phone / 1000 / v23:
+           TOTAL: 100%
+      Service Rs: 100%
+  * com.google.android.googlequicksearchbox:interactor / u0a77 / v300730590:
+           TOTAL: 100% (1.0MB-1.1MB-1.1MB/292KB-362KB-420KB over 21)
+          Imp Fg: 100% (1.0MB-1.1MB-1.1MB/292KB-362KB-420KB over 21)
+  * com.sec.vsim.ericssonnsds.webapp / u0a58 / v1:
+           TOTAL: 100% (627KB-676KB-765KB/296KB-365KB-440KB over 20)
+      Persistent: 100% (627KB-676KB-765KB/296KB-365KB-440KB over 20)
+  * org.simalliance.openmobileapi.service:remote / u0a312 / v8:
+           TOTAL: 100% (703KB-1.0MB-1.3MB/304KB-675KB-0.94MB over 21)
+          Imp Fg: 100% (703KB-1.0MB-1.3MB/304KB-675KB-0.94MB over 21)
+  * com.google.android.gms / u0a18 / v10298440:
+           TOTAL: 100% (62MB-69MB-84MB/49MB-58MB-74MB over 34)
+             Top: 2.0% (66MB-66MB-66MB/52MB-53MB-53MB over 2)
+          Imp Fg: 25% (64MB-70MB-80MB/50MB-56MB-65MB over 10)
+          Imp Bg: 0.08%
+         Service: 73% (62MB-70MB-84MB/49MB-60MB-74MB over 22)
+  * com.sec.imsservice:ConfigService / 1000 / v1:
+           TOTAL: 100% (857KB-2.2MB-3.8MB/324KB-1.6MB-3.2MB over 20)
+      Persistent: 100% (857KB-2.2MB-3.8MB/324KB-1.6MB-3.2MB over 20)
+  * com.sec.smartcard.manager / u0a203 / v10:
+           TOTAL: 100% (880KB-1.0MB-1.1MB/524KB-685KB-756KB over 21)
+          Imp Fg: 100% (880KB-1.0MB-1.1MB/524KB-685KB-756KB over 21)
+  * com.android.systemui.recents / u0a70 / v23:
+           TOTAL: 100% (15MB-18MB-23MB/11MB-15MB-20MB over 24)
+             Top: 0.20%
+          Imp Fg: 100% (15MB-18MB-23MB/11MB-15MB-20MB over 24)
+  * com.sec.sve / 1000 / v1:
+           TOTAL: 100% (766KB-833KB-900KB/292KB-349KB-412KB over 20)
+      Persistent: 100% (766KB-833KB-900KB/292KB-349KB-412KB over 20)
+  * com.samsung.android.themecenter / 1000 / v2010000:
+           TOTAL: 100% (783KB-1.2MB-1.6MB/300KB-785KB-1.1MB over 21)
+          Imp Fg: 100% (783KB-1.2MB-1.6MB/300KB-785KB-1.1MB over 21)
+  * com.samsung.ucs.agent.boot / 1000 / v23:
+           TOTAL: 100% (892KB-0.93MB-0.96MB/560KB-615KB-656KB over 21)
+          Imp Fg: 100% (892KB-0.93MB-0.96MB/560KB-615KB-656KB over 21)
+  * com.facebook.katana / u0a130 / v51686781:
+           TOTAL: 100% (27MB-47MB-65MB/21MB-41MB-58MB over 15)
+          Imp Bg: 0.01%
+         Service: 100% (27MB-47MB-65MB/21MB-41MB-58MB over 15)
+  * com.sec.android.app.wfdbroker / 1000 / v109301517:
+           TOTAL: 100% (605KB-669KB-768KB/288KB-355KB-424KB over 20)
+      Persistent: 100% (605KB-669KB-768KB/288KB-355KB-424KB over 20)
+  * com.google.android.gms.persistent / u0a18 / v10298440:
+           TOTAL: 100% (36MB-39MB-43MB/31MB-34MB-38MB over 46)
+             Top: 42% (36MB-39MB-43MB/31MB-34MB-38MB over 22)
+          Imp Fg: 58% (36MB-39MB-43MB/31MB-34MB-38MB over 24)
+  * com.samsung.android.fingerprint.service / 1000 / v10100:
+           TOTAL: 100% (733KB-836KB-1.1MB/352KB-477KB-736KB over 21)
+          Imp Fg: 100% (733KB-836KB-1.1MB/352KB-477KB-736KB over 21)
+  * com.sec.android.inputmethod / 1000 / v145401010:
+           TOTAL: 100% (8.4MB-12MB-18MB/6.0MB-9.3MB-15MB over 21)
+          Imp Bg: 100% (8.4MB-12MB-18MB/6.0MB-9.3MB-15MB over 21)
+  * com.sec.android.app.SamsungContentsAgent / u0a190 / v100300000:
+           TOTAL: 100% (622KB-674KB-749KB/304KB-360KB-432KB over 20)
+      Persistent: 100% (622KB-674KB-749KB/304KB-360KB-432KB over 20)
+  * com.samsung.android.beaconmanager / 5006 / v41:
+           TOTAL: 100% (1.1MB-1.9MB-2.2MB/716KB-1.5MB-1.7MB over 21)
+          Imp Fg: 100% (1.1MB-1.9MB-2.2MB/716KB-1.5MB-1.7MB over 21)
+  * com.facebook.katana:videoplayer / u0a130 / v51686781:
+           TOTAL: 100% (3.9MB-5.5MB-7.7MB/712KB-2.1MB-3.9MB over 17)
+          Imp Bg: 0.03%
+         Service: 100% (3.9MB-5.5MB-7.7MB/712KB-2.1MB-3.9MB over 17)
+  * com.asurion.android.mobilerecovery.att / u0a30 / v1800001203:
+           TOTAL: 100% (2.9MB-4.7MB-7.7MB/1.9MB-3.7MB-6.6MB over 20)
+         Service: 100% (2.9MB-4.7MB-7.7MB/1.9MB-3.7MB-6.6MB over 20)
+  * com.sec.imsservice / 1000 / v1:
+           TOTAL: 100% (10MB-14MB-19MB/9.1MB-13MB-18MB over 20)
+      Persistent: 100% (10MB-14MB-19MB/9.1MB-13MB-18MB over 20)
+  * com.facebook.orca / u0a231 / v51652255:
+           TOTAL: 100% (20MB-32MB-38MB/15MB-27MB-33MB over 20)
+         Service: 100% (20MB-32MB-38MB/15MB-27MB-33MB over 20)
+  * com.samsung.android.spay / u0a191 / v260000123:
+           TOTAL: 100% (15MB-24MB-37MB/9.3MB-19MB-32MB over 18)
+         Service: 100% (15MB-24MB-37MB/9.3MB-19MB-32MB over 18)
+      Service Rs: 0.06%
+  * com.samsung.android.spayfw / 1200 / v273801000:
+           TOTAL: 100% (3.4MB-7.5MB-12MB/2.7MB-6.8MB-11MB over 20)
+         Service: 100% (3.4MB-7.5MB-12MB/2.7MB-6.8MB-11MB over 20)
+      Service Rs: 0.05%
+  * com.instagram.android:mqtt / u0a129 / v51631982:
+           TOTAL: 100% (5.2MB-7.6MB-11MB/1.4MB-3.9MB-8.3MB over 20)
+         Service: 100% (5.2MB-7.6MB-11MB/1.4MB-3.9MB-8.3MB over 20)
+      Service Rs: 0.13%
+  * com.weather.samsung / u0a242 / v207010063:
+           TOTAL: 100% (36MB-41MB-47MB/34MB-39MB-46MB over 19)
+         Service: 100% (36MB-41MB-47MB/34MB-39MB-46MB over 19)
+      Service Rs: 0.16%
+  * org.speedspot.speedspotspeedtest / u0a328 / v14:
+           TOTAL: 100% (11MB-14MB-16MB/10MB-13MB-15MB over 19)
+         Service: 100% (11MB-14MB-16MB/10MB-13MB-15MB over 19)
+      Service Rs: 0.11%
+  * com.att.android.digitallocker / u0a86 / v1610121430:
+           TOTAL: 100% (11MB-23MB-30MB/9.5MB-22MB-29MB over 22)
+         Service: 100% (11MB-23MB-30MB/9.5MB-22MB-29MB over 22)
+      Service Rs: 0.37%
+  * com.att.myWireless:ZdaService / u0a87 / v61:
+           TOTAL: 100% (7.4MB-11MB-14MB/5.6MB-8.8MB-11MB over 18)
+         Service: 100% (7.4MB-11MB-14MB/5.6MB-8.8MB-11MB over 18)
+      Service Rs: 0.16%
+  * com.samsung.accessory.framework / u0a17 / v322:
+           TOTAL: 100% (3.2MB-4.8MB-6.5MB/2.7MB-4.3MB-6.1MB over 19)
+         Service: 100% (3.2MB-4.8MB-6.5MB/2.7MB-4.3MB-6.1MB over 19)
+      Service Rs: 0.16%
+  * com.samsung.android.email.provider:service / u0a55 / v333803000:
+           TOTAL: 100% (5.9MB-9.2MB-12MB/4.7MB-7.3MB-10MB over 23)
+          Imp Fg: 0.01%
+          Imp Bg: 0.05%
+         Service: 100% (5.9MB-9.2MB-12MB/4.7MB-7.3MB-10MB over 23)
+      Service Rs: 0.04%
+  * com.ws.dm / 1000 / v223700200:
+           TOTAL: 100% (2.7MB-5.8MB-6.5MB/2.1MB-5.2MB-6.0MB over 18)
+         Service: 99% (2.7MB-5.8MB-6.5MB/2.1MB-5.2MB-6.0MB over 18)
+      Service Rs: 0.81%
+  * com.samsung.android.fmm / 1000 / v611400100:
+           TOTAL: 100% (1.4MB-4.4MB-5.4MB/0.96MB-3.9MB-4.9MB over 18)
+         Service: 100% (1.4MB-4.4MB-5.4MB/0.96MB-3.9MB-4.9MB over 18)
+      Service Rs: 0.18%
+  * com.trustonic.tuiservice / 1000 / v1:
+           TOTAL: 100% (0.89MB-2.2MB-2.6MB/580KB-1.9MB-2.2MB over 18)
+         Service: 100% (0.89MB-2.2MB-2.6MB/580KB-1.9MB-2.2MB over 18)
+      Service Rs: 0.18%
+  * com.smlds / u0a300 / v110300000:
+           TOTAL: 100% (1.5MB-4.0MB-5.1MB/1.0MB-3.5MB-4.6MB over 19)
+         Service: 99% (1.5MB-4.0MB-5.1MB/1.0MB-3.5MB-4.6MB over 19)
+      Service Rs: 0.67%
+  * com.sec.android.app.SmartClipService / u0a201 / v104000000:
+           TOTAL: 100% (1.5MB-3.7MB-4.1MB/1.1MB-3.3MB-3.7MB over 21)
+         Service: 100% (1.5MB-3.7MB-4.1MB/1.1MB-3.3MB-3.7MB over 21)
+      Service Rs: 0.05%
+  * com.sec.android.app.shealth:remote / u0a40 / v5600031:
+           TOTAL: 100% (30MB-35MB-42MB/25MB-29MB-40MB over 19)
+             Top: 19% (32MB-34MB-36MB/25MB-27MB-29MB over 2)
+          Imp Fg: 0.72% (35MB-35MB-35MB/27MB-27MB-27MB over 1)
+         Service: 79% (30MB-35MB-42MB/25MB-30MB-40MB over 16)
+      Service Rs: 0.38%
+        Receiver: 0.01%
+        Bg TOTAL: 0.07%
+        (Cached): 0.07%
+  * com.samsung.android.snote:instantMemo / u0a180 / v520125000:
+           TOTAL: 75% (17MB-20MB-23MB/13MB-14MB-18MB over 20)
+         Service: 75% (17MB-20MB-23MB/13MB-14MB-18MB over 20)
+      Service Rs: 0.01%
+        Bg TOTAL: 13% (18MB-20MB-22MB/13MB-14MB-17MB over 13)
+        (Cached): 13% (18MB-20MB-22MB/13MB-14MB-17MB over 13)
+  * android.process.media / u0a53 / v814:
+           TOTAL: 56% (9.3MB-10MB-13MB/8.4MB-9.2MB-12MB over 12)
+          Imp Fg: 0.02%
+          Imp Bg: 0.01%
+         Service: 56% (9.3MB-10MB-13MB/8.4MB-9.2MB-12MB over 12)
+        Bg TOTAL: 44% (6.7MB-9.2MB-13MB/5.7MB-8.2MB-12MB over 7)
+        (Cached): 44% (6.7MB-9.2MB-13MB/5.7MB-8.2MB-12MB over 7)
+  * com.samsung.android.MtpApplication / 1000 / v1:
+           TOTAL: 56% (2.3MB-4.7MB-6.3MB/1.7MB-4.1MB-5.8MB over 12)
+          Imp Fg: 56% (2.3MB-4.7MB-6.3MB/1.7MB-4.1MB-5.8MB over 12)
+        Receiver: 0.01%
+        Bg TOTAL: 1.3% (2.7MB-2.7MB-2.7MB/2.3MB-2.3MB-2.3MB over 1)
+        (Cached): 1.3% (2.7MB-2.7MB-2.7MB/2.3MB-2.3MB-2.3MB over 1)
+  * com.example.android.miwok / u0a95 / v1:
+           TOTAL: 51% (6.2MB-19MB-47MB/5.6MB-18MB-45MB over 16)
+             Top: 4.9% (45MB-46MB-47MB/43MB-44MB-45MB over 5)
+         Service: 46% (6.2MB-6.4MB-6.6MB/5.6MB-5.9MB-6.1MB over 11)
+      Service Rs: 0.07%
+  * com.google.android.googlequicksearchbox:search / u0a77 / v300730590:
+           TOTAL: 42% (30MB-35MB-44MB/25MB-30MB-39MB over 16)
+             Top: 42% (30MB-35MB-44MB/25MB-30MB-39MB over 16)
+        Receiver: 0.01%
+        Bg TOTAL: 58% (28MB-33MB-41MB/22MB-28MB-34MB over 12)
+          (Home): 58% (28MB-33MB-41MB/22MB-28MB-34MB over 12)
+  * com.sec.android.app.launcher / u0a74 / v215801000:
+           TOTAL: 42% (94MB-137MB-179MB/91MB-134MB-175MB over 16)
+             Top: 42% (94MB-137MB-179MB/91MB-134MB-175MB over 16)
+        Bg TOTAL: 58% (72MB-87MB-110MB/69MB-84MB-107MB over 12)
+          (Home): 58% (72MB-87MB-110MB/69MB-84MB-107MB over 12)
+  * com.samsung.voiceserviceplatform / u0a45 / v193502136:
+           TOTAL: 36% (15MB-28MB-32MB/12MB-25MB-30MB over 8)
+         Service: 36% (15MB-28MB-32MB/12MB-25MB-30MB over 8)
+        Receiver: 0.02%
+  * com.samsung.SMT / 1000 / v201503021:
+           TOTAL: 36% (4.2MB-25MB-32MB/3.8MB-25MB-32MB over 8)
+         Service: 36% (4.2MB-25MB-32MB/3.8MB-25MB-32MB over 8)
+  * com.android.vending / u0a35 / v80750800:
+           TOTAL: 30% (12MB-14MB-19MB/11MB-13MB-18MB over 21)
+             Top: 12% (12MB-15MB-19MB/11MB-14MB-18MB over 13)
+          Imp Fg: 17% (12MB-12MB-12MB/11MB-11MB-11MB over 8)
+          Imp Bg: 0.07%
+         Service: 0.45%
+        Receiver: 0.01%
+        Bg TOTAL: 70% (11MB-19MB-26MB/11MB-18MB-24MB over 20)
+      (Last Act): 0.02%
+        (Cached): 70% (11MB-19MB-26MB/11MB-18MB-24MB over 20)
+  * com.pandora.android / u0a229 / v82011:
+           TOTAL: 20% (248MB-316MB-361MB/230MB-297MB-336MB over 14)
+             Top: 3.1% (248MB-318MB-361MB/230MB-298MB-336MB over 7)
+          Imp Fg: 17% (293MB-315MB-335MB/274MB-296MB-316MB over 7)
+         Service: 0.04%
+        Receiver: 0.04%
+        Bg TOTAL: 44% (30MB-30MB-30MB/28MB-28MB-28MB over 14)
+        (Cached): 44% (30MB-30MB-30MB/28MB-28MB-28MB over 14)
+  * com.sec.android.app.shealth / u0a40 / v5600031:
+           TOTAL: 20% (145MB-146MB-146MB/135MB-136MB-136MB over 4)
+             Top: 20% (145MB-146MB-146MB/135MB-136MB-136MB over 4)
+         Service: 0.06%
+        Receiver: 0.03%
+        Bg TOTAL: 60% (15MB-16MB-25MB/9.5MB-10MB-19MB over 21)
+      (Last Act): 0.01%
+        (Cached): 60% (15MB-16MB-25MB/9.5MB-10MB-19MB over 21)
+  * com.sec.android.service.health / u0a22 / v211001:
+           TOTAL: 20% (6.3MB-6.8MB-8.0MB/4.8MB-5.2MB-6.4MB over 4)
+             Top: 20% (6.3MB-6.8MB-8.0MB/4.8MB-5.2MB-6.4MB over 4)
+         Service: 0.01%
+        Bg TOTAL: 13% (4.1MB-4.2MB-4.5MB/2.4MB-2.6MB-2.8MB over 3)
+      (Last Act): 0.01%
+        (Cached): 13% (4.1MB-4.2MB-4.5MB/2.4MB-2.6MB-2.8MB over 3)
+  * com.pandora.android:MarshmallowDozeService / u0a229 / v82011:
+           TOTAL: 20% (5.1MB-5.3MB-5.5MB/3.6MB-3.9MB-4.0MB over 11)
+             Top: 2.5% (5.1MB-5.4MB-5.5MB/3.6MB-3.9MB-4.0MB over 4)
+          Imp Fg: 17% (5.1MB-5.3MB-5.5MB/3.6MB-3.8MB-4.0MB over 7)
+        Bg TOTAL: 0.55%
+        (Cached): 0.55%
+  * wsj.reader_sp / u0a230 / v380085:
+           TOTAL: 8.8% (175MB-234MB-274MB/160MB-218MB-259MB over 6)
+             Top: 8.7% (175MB-234MB-274MB/160MB-218MB-259MB over 6)
+         Service: 0.12%
+        Bg TOTAL: 2.7% (23MB-23MB-23MB/21MB-21MB-21MB over 2)
+      (Last Act): 0.02%
+        (Cached): 2.7% (23MB-23MB-23MB/21MB-21MB-21MB over 2)
+  * com.instagram.android / u0a129 / v51631982:
+           TOTAL: 3.0% (143MB-146MB-148MB/136MB-138MB-140MB over 2)
+             Top: 2.9% (143MB-146MB-148MB/136MB-138MB-140MB over 2)
+         Service: 0.03%
+        Receiver: 0.03%
+        Bg TOTAL: 88% (13MB-16MB-18MB/8.9MB-13MB-14MB over 21)
+      (Last Act): 0.01%
+        (Cached): 88% (13MB-16MB-18MB/8.9MB-13MB-14MB over 21)
+  * com.instagram.android:igplayer / u0a129 / v51631982:
+           TOTAL: 2.9% (5.7MB-10MB-15MB/3.1MB-7.5MB-12MB over 2)
+             Top: 2.9% (5.7MB-10MB-15MB/3.1MB-7.5MB-12MB over 2)
+        Bg TOTAL: 0.01%
+      (Last Act): 0.01%
+  * com.google.android.gm / u0a142 / v58972787:
+           TOTAL: 1.4% (124MB-128MB-132MB/119MB-123MB-128MB over 2)
+             Top: 1.4% (124MB-128MB-132MB/119MB-123MB-128MB over 2)
+          Imp Fg: 0.01%
+        Bg TOTAL: 0.45% (18MB-18MB-18MB/17MB-17MB-17MB over 1)
+      (Last Act): 0.02%
+        (Cached): 0.43% (18MB-18MB-18MB/17MB-17MB-17MB over 1)
+  * com.google.android.apps.photos / u0a170 / v826190:
+           TOTAL: 0.98%
+         Service: 0.93%
+        Receiver: 0.04%
+        Bg TOTAL: 77% (13MB-17MB-23MB/13MB-17MB-21MB over 20)
+        (Cached): 77% (13MB-17MB-23MB/13MB-17MB-21MB over 20)
+  * com.google.android.gms.feedback / u0a18 / v10298440:
+           TOTAL: 0.69% (4.5MB-11MB-17MB/2.1MB-8.1MB-14MB over 2)
+             Top: 0.69% (4.5MB-11MB-17MB/2.1MB-8.1MB-14MB over 2)
+        Bg TOTAL: 33% (2.8MB-9.0MB-15MB/440KB-6.4MB-12MB over 11)
+      (Last Act): 0.02%
+        (Cached): 33% (2.8MB-9.0MB-15MB/440KB-6.4MB-12MB over 11)
+  * com.android.defcontainer / u0a6 / v23:
+           TOTAL: 0.67% (3.1MB-3.1MB-3.1MB/2.5MB-2.5MB-2.5MB over 1)
+          Imp Fg: 0.67% (3.1MB-3.1MB-3.1MB/2.5MB-2.5MB-2.5MB over 1)
+        Bg TOTAL: 0.91%
+        (Cached): 0.91%
+  * com.google.android.talk / u0a146 / v23910504:
+           TOTAL: 0.49%
+         Service: 0.44%
+        Receiver: 0.05%
+        Bg TOTAL: 57% (24MB-26MB-27MB/21MB-23MB-24MB over 8)
+        (Cached): 57% (24MB-26MB-27MB/21MB-23MB-24MB over 8)
+  * com.lookout / u0a27 / v10100019:
+           TOTAL: 0.39%
+         Service: 0.36%
+        Receiver: 0.02%
+        Bg TOTAL: 39% (29MB-39MB-48MB/25MB-36MB-45MB over 11)
+        (Cached): 39% (29MB-39MB-48MB/25MB-36MB-45MB over 11)
+  * com.ampsvc.android / u0a83 / v5072:
+           TOTAL: 0.33%
+         Service: 0.30%
+        Receiver: 0.03%
+        Bg TOTAL: 78% (12MB-15MB-21MB/11MB-14MB-20MB over 19)
+        (Cached): 78% (12MB-15MB-21MB/11MB-14MB-20MB over 19)
+  * com.EAGINsoftware.dejaloYa / u0a232 / v5048001:
+           TOTAL: 0.33%
+         Service: 0.16%
+        Receiver: 0.17%
+        Bg TOTAL: 99% (16MB-24MB-30MB/14MB-22MB-27MB over 84)
+        (Cached): 99% (16MB-24MB-30MB/14MB-22MB-27MB over 84)
+  * com.android.providers.calendar / u0a52 / v23:
+           TOTAL: 0.18%
+         Service: 0.18%
+        Bg TOTAL: 70% (4.5MB-4.7MB-4.8MB/4.1MB-4.2MB-4.3MB over 16)
+        (Cached): 70% (4.5MB-4.7MB-4.8MB/4.1MB-4.2MB-4.3MB over 16)
+  * com.google.process.gapps / u0a18 / v23:
+           TOTAL: 0.18%
+             Top: 0.04%
+          Imp Fg: 0.01%
+          Imp Bg: 0.02%
+         Service: 0.09%
+        Receiver: 0.03%
+        Bg TOTAL: 99% (4.1MB-5.1MB-5.8MB/3.7MB-4.7MB-5.3MB over 30)
+        (Cached): 99% (4.1MB-5.1MB-5.8MB/3.7MB-4.7MB-5.3MB over 30)
+  * com.cequint.ecid / u0a9 / v545660:
+           TOTAL: 0.18%
+         Service: 0.17%
+        Receiver: 0.01%
+        Bg TOTAL: 0.64%
+        (Cached): 0.64%
+  * com.samsung.enhanceservice / 5004 / v1:
+           TOTAL: 0.18%
+         Service: 0.08%
+      Service Rs: 0.10%
+        Bg TOTAL: 2.8% (2.5MB-2.5MB-2.6MB/2.2MB-2.2MB-2.2MB over 2)
+        (Cached): 2.8% (2.5MB-2.5MB-2.6MB/2.2MB-2.2MB-2.2MB over 2)
+  * com.samsung.dcmservice / 5004 / v1:
+           TOTAL: 0.17%
+         Service: 0.08%
+      Service Rs: 0.10%
+        Bg TOTAL: 2.8% (2.8MB-2.8MB-2.8MB/2.4MB-2.5MB-2.5MB over 2)
+        (Cached): 2.8% (2.8MB-2.8MB-2.8MB/2.4MB-2.5MB-2.5MB over 2)
+  * com.samsung.android.email.provider / u0a55 / v333803000:
+           TOTAL: 0.17%
+             Top: 0.10%
+         Service: 0.07%
+        Bg TOTAL: 58% (8.9MB-9.0MB-9.2MB/6.5MB-6.7MB-6.8MB over 9)
+      (Last Act): 0.01%
+        (Cached): 57% (8.9MB-9.0MB-9.2MB/6.5MB-6.7MB-6.8MB over 9)
+  * com.samsung.faceservice / 5004 / v1:
+           TOTAL: 0.13%
+         Service: 0.03%
+      Service Rs: 0.11%
+        Bg TOTAL: 2.7% (24MB-24MB-24MB/23MB-23MB-24MB over 2)
+        (Cached): 2.7% (24MB-24MB-24MB/23MB-23MB-24MB over 2)
+  * com.samsung.ipservice / 5004 / v1:
+           TOTAL: 0.11%
+         Service: 0.03%
+      Service Rs: 0.08%
+        Bg TOTAL: 2.8% (2.9MB-2.9MB-2.9MB/2.5MB-2.5MB-2.6MB over 2)
+        (Cached): 2.8% (2.9MB-2.9MB-2.9MB/2.5MB-2.5MB-2.6MB over 2)
+  * com.google.android.gms.unstable / u0a18 / v10298440:
+           TOTAL: 0.11%
+         Service: 0.11%
+        Bg TOTAL: 0.09%
+        (Cached): 0.09%
+  * com.google.android.gms.ui / u0a18 / v10298440:
+           TOTAL: 0.10%
+         Service: 0.10%
+        Bg TOTAL: 20% (13MB-13MB-13MB/11MB-11MB-11MB over 1)
+        (Cached): 20% (13MB-13MB-13MB/11MB-11MB-11MB over 1)
+  * com.att.mobiletransfer / u0a31 / v1612142138:
+           TOTAL: 0.10%
+        Receiver: 0.10%
+        Bg TOTAL: 44% (17MB-18MB-19MB/16MB-17MB-18MB over 14)
+        (Cached): 44% (17MB-18MB-19MB/16MB-17MB-18MB over 14)
+  * com.soundcloud.android / u0a307 / v607:
+           TOTAL: 0.09%
+          Imp Bg: 0.09%
+        Bg TOTAL: 30% (42MB-74MB-120MB/38MB-69MB-113MB over 5)
+        (Cached): 30% (42MB-74MB-120MB/38MB-69MB-113MB over 5)
+  * com.samsung.aasaservice / 1000 / v4:
+           TOTAL: 0.09%
+         Service: 0.02%
+      Service Rs: 0.02%
+        Receiver: 0.06%
+        Bg TOTAL: 7.3% (2.4MB-2.4MB-2.5MB/2.1MB-2.1MB-2.1MB over 3)
+        (Cached): 7.3% (2.4MB-2.4MB-2.5MB/2.1MB-2.1MB-2.1MB over 3)
+  * com.myscript.atk.rmc.service.sample / u0a175 / v1503060056:
+           TOTAL: 0.09%
+         Service: 0.06%
+        Receiver: 0.03%
+        Bg TOTAL: 96% (711KB-2.0MB-2.6MB/368KB-1.7MB-2.3MB over 20)
+        (Cached): 96% (711KB-2.0MB-2.6MB/368KB-1.7MB-2.3MB over 20)
+  * com.raterhub.mera / u0a34 / v39:
+           TOTAL: 0.09%
+         Service: 0.08%
+        Receiver: 0.01%
+        Bg TOTAL: 0.90% (23MB-23MB-23MB/16MB-16MB-16MB over 1)
+        (Cached): 0.90% (23MB-23MB-23MB/16MB-16MB-16MB over 1)
+  * com.samsung.cmh:CMH / 5004 / v203300000:
+           TOTAL: 0.08%
+         Service: 0.08%
+        Bg TOTAL: 2.9% (10MB-11MB-11MB/9.8MB-10MB-10MB over 2)
+        (Cached): 2.9% (10MB-11MB-11MB/9.8MB-10MB-10MB over 2)
+  * com.tekoia.sure.activities / u0a91 / v82:
+           TOTAL: 0.08%
+        Receiver: 0.08%
+        Bg TOTAL: 20% (30MB-30MB-31MB/27MB-27MB-28MB over 6)
+        (Cached): 20% (30MB-30MB-31MB/27MB-27MB-28MB over 6)
+  * com.doapps.android.mln.MLN_fac245c0cd451a91e8fa12de5db066de / u0a2 / v49080470:
+           TOTAL: 0.07%
+         Service: 0.07%
+        Receiver: 0.01%
+        Bg TOTAL: 26% (18MB-18MB-19MB/15MB-16MB-16MB over 5)
+        (Cached): 26% (18MB-18MB-19MB/15MB-16MB-16MB over 5)
+  * android.process.acore / u0a26 / v19:
+           TOTAL: 0.07%
+             Top: 0.01%
+          Imp Fg: 0.01%
+          Imp Bg: 0.02%
+         Service: 0.02%
+        Receiver: 0.01%
+        Bg TOTAL: 100% (7.0MB-9.4MB-12MB/6.3MB-8.7MB-12MB over 28)
+        (Cached): 100% (7.0MB-9.4MB-12MB/6.3MB-8.7MB-12MB over 28)
+  * com.google.android.gms:car / u0a18 / v10298440:
+           TOTAL: 0.06%
+          Imp Bg: 0.06%
+        Bg TOTAL: 0.46% (15MB-15MB-15MB/13MB-13MB-13MB over 1)
+        (Cached): 0.46% (15MB-15MB-15MB/13MB-13MB-13MB over 1)
+  * com.sec.android.daemonapp / u0a217 / v125101001:
+           TOTAL: 0.05%
+         Service: 0.02%
+        Receiver: 0.04%
+        Bg TOTAL: 93% (4.9MB-6.5MB-7.2MB/4.3MB-5.9MB-6.6MB over 23)
+        (Cached): 93% (4.9MB-6.5MB-7.2MB/4.3MB-5.9MB-6.6MB over 23)
+  * com.ubercab / u0a209 / v33704:
+           TOTAL: 0.05%
+        Receiver: 0.05%
+        Bg TOTAL: 1.4% (62MB-62MB-63MB/58MB-59MB-59MB over 2)
+        (Cached): 1.4% (62MB-62MB-63MB/58MB-59MB-59MB over 2)
+  * com.google.android.apps.docs / u0a124 / v70631440:
+           TOTAL: 0.05%
+        Receiver: 0.05%
+        Bg TOTAL: 8.7% (27MB-27MB-27MB/25MB-25MB-25MB over 4)
+        (Cached): 8.7% (27MB-27MB-27MB/25MB-25MB-25MB over 4)
+  * com.sec.android.app.samsungapps / u0a16 / v420405330:
+           TOTAL: 0.05%
+         Service: 0.03%
+        Receiver: 0.02%
+        Bg TOTAL: 69% (9.9MB-10MB-12MB/9.4MB-9.9MB-11MB over 18)
+        (Cached): 69% (9.9MB-10MB-12MB/9.4MB-9.9MB-11MB over 18)
+  * com.android.calendar / u0a185 / v316602000:
+           TOTAL: 0.04%
+         Service: 0.01%
+        Receiver: 0.03%
+        Bg TOTAL: 71% (7.5MB-7.8MB-7.9MB/6.9MB-7.1MB-7.2MB over 17)
+        (Cached): 71% (7.5MB-7.8MB-7.9MB/6.9MB-7.1MB-7.2MB over 17)
+  * com.samsung.android.snote:quicknote / u0a180 / v520125000:
+           TOTAL: 0.04%
+        Receiver: 0.04%
+        Bg TOTAL: 76% (5.2MB-6.0MB-6.3MB/2.7MB-2.8MB-3.0MB over 17)
+        (Cached): 76% (5.2MB-6.0MB-6.3MB/2.7MB-2.8MB-3.0MB over 17)
+  * com.osp.app.signin / u0a48 / v220190000:
+           TOTAL: 0.04%
+         Service: 0.03%
+        Receiver: 0.01%
+        Bg TOTAL: 11% (6.7MB-7.5MB-8.3MB/6.2MB-7.0MB-7.7MB over 4)
+        (Cached): 11% (6.7MB-7.5MB-8.3MB/6.2MB-7.0MB-7.7MB over 4)
+  * com.facebook.appmanager / u0a128 / v50573461:
+           TOTAL: 0.03%
+         Service: 0.02%
+        Receiver: 0.01%
+        Bg TOTAL: 42% (7.7MB-11MB-11MB/5.7MB-8.6MB-8.9MB over 13)
+        (Cached): 42% (7.7MB-11MB-11MB/5.7MB-8.6MB-8.9MB over 13)
+  * com.sec.android.sidesync30 / u0a198 / v504:
+           TOTAL: 0.03%
+        Receiver: 0.03%
+        Bg TOTAL: 38% (6.8MB-8.1MB-9.0MB/4.8MB-6.2MB-6.9MB over 10)
+        (Cached): 38% (6.8MB-8.1MB-9.0MB/4.8MB-6.2MB-6.9MB over 10)
+  * com.policydm / 1000 / v417800000:
+           TOTAL: 0.03%
+         Service: 0.02%
+        Receiver: 0.01%
+        Bg TOTAL: 7.3% (6.3MB-6.3MB-6.3MB/5.7MB-5.7MB-5.8MB over 3)
+        (Cached): 7.3% (6.3MB-6.3MB-6.3MB/5.7MB-5.7MB-5.8MB over 3)
+  * com.sec.android.app.sbrowser / u0a178 / v403018042:
+           TOTAL: 0.03%
+        Receiver: 0.03%
+        Bg TOTAL: 82% (6.1MB-7.9MB-8.4MB/4.4MB-6.1MB-6.5MB over 18)
+        (Cached): 82% (6.1MB-7.9MB-8.4MB/4.4MB-6.1MB-6.5MB over 18)
+  * com.samsung.storyservice / 5004 / v1:
+           TOTAL: 0.03%
+         Service: 0.03%
+        Bg TOTAL: 2.8% (4.4MB-4.4MB-4.5MB/4.0MB-4.0MB-4.1MB over 2)
+        (Cached): 2.8% (4.4MB-4.4MB-4.5MB/4.0MB-4.0MB-4.1MB over 2)
+  * com.google.process.gapps / u0a308 / v23:
+           TOTAL: 0.02%
+          Imp Bg: 0.02%
+        Bg TOTAL: 7.0% (5.8MB-5.8MB-5.8MB/5.0MB-5.0MB-5.0MB over 1)
+        (Cached): 7.0% (5.8MB-5.8MB-5.8MB/5.0MB-5.0MB-5.0MB over 1)
+  * com.google.android.videos / u0a213 / v32313002:
+           TOTAL: 0.02%
+         Service: 0.02%
+        Bg TOTAL: 0.52%
+        (Cached): 0.52%
+  * com.cequint.ecid:com.ims.process / u0a9 / v545660:
+           TOTAL: 0.02%
+         Service: 0.02%
+        Bg TOTAL: 19% (3.9MB-4.8MB-7.2MB/3.6MB-4.4MB-6.5MB over 5)
+        (Cached): 19% (3.9MB-4.8MB-7.2MB/3.6MB-4.4MB-6.5MB over 5)
+  * com.android.chrome / u0a112 / v292408701:
+           TOTAL: 0.02%
+         Service: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 7.4% (14MB-15MB-16MB/11MB-12MB-14MB over 5)
+        (Cached): 7.4% (14MB-15MB-16MB/11MB-12MB-14MB over 5)
+  * com.android.settings / 1000 / v23:
+           TOTAL: 0.02%
+        Receiver: 0.02%
+        Bg TOTAL: 28% (3.5MB-5.3MB-6.3MB/2.7MB-4.5MB-5.5MB over 6)
+        (Cached): 28% (3.5MB-5.3MB-6.3MB/2.7MB-4.5MB-5.5MB over 6)
+  * com.samsung.android.SettingsReceiver / 1000 / v23:
+           TOTAL: 0.02%
+        Receiver: 0.02%
+        Bg TOTAL: 88% (1.8MB-2.7MB-3.4MB/1.2MB-2.2MB-2.8MB over 19)
+        (Cached): 88% (1.8MB-2.7MB-3.4MB/1.2MB-2.2MB-2.8MB over 19)
+  * com.sec.android.app.billing / u0a46 / v410000006:
+           TOTAL: 0.02%
+        Receiver: 0.02%
+        Bg TOTAL: 53% (4.0MB-4.3MB-4.8MB/3.6MB-3.9MB-4.5MB over 15)
+        (Cached): 53% (4.0MB-4.3MB-4.8MB/3.6MB-3.9MB-4.5MB over 15)
+  * com.enhance.gameservice / u0a140 / v107000000:
+           TOTAL: 0.02%
+        Receiver: 0.01%
+        Bg TOTAL: 46% (2.6MB-3.0MB-3.5MB/2.2MB-2.7MB-3.1MB over 11)
+        (Cached): 46% (2.6MB-3.0MB-3.5MB/2.2MB-2.7MB-3.1MB over 11)
+  * com.samsung.svoice.sync / u0a45 / v171801038:
+           TOTAL: 0.02%
+         Service: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 0.13%
+        (Cached): 0.13%
+  * com.sec.android.diagmonagent / 1000 / v411300100:
+           TOTAL: 0.02%
+        Receiver: 0.02%
+        Bg TOTAL: 18% (3.6MB-3.7MB-3.8MB/3.2MB-3.3MB-3.4MB over 3)
+        (Cached): 18% (3.6MB-3.7MB-3.8MB/3.2MB-3.3MB-3.4MB over 3)
+  * com.sec.spp.push:RemoteDlcProcess / u0a44 / v160100000:
+           TOTAL: 0.01%
+         Service: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 55% (4.0MB-4.2MB-4.3MB/3.4MB-3.7MB-3.8MB over 16)
+        (Cached): 55% (4.0MB-4.2MB-4.3MB/3.4MB-3.7MB-3.8MB over 16)
+  * com.yahoo.mobile.client.android.mail.att:com.yahoo.snp.service / u0a157 / v1315850:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 25% (7.2MB-7.3MB-7.4MB/6.8MB-6.9MB-7.0MB over 4)
+        (Cached): 25% (7.2MB-7.3MB-7.4MB/6.8MB-6.9MB-7.0MB over 4)
+  * com.sec.enterprise.knox.cloudmdm.smdms / u0a210 / v37:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 0.70%
+        (Cached): 0.70%
+  * com.samsung.android.app.watchmanager:contentprovider / u0a17 / v2116101261:
+           TOTAL: 0.01%
+         Service: 0.01%
+        Bg TOTAL: 32% (3.4MB-3.5MB-3.6MB/3.0MB-3.1MB-3.1MB over 4)
+        (Cached): 32% (3.4MB-3.5MB-3.6MB/3.0MB-3.1MB-3.1MB over 4)
+  * com.ubercab:processor / u0a209 / v33704:
+           TOTAL: 0.01%
+         Service: 0.01%
+  * com.sec.android.provider.badge / u0a105 / v101200001:
+           TOTAL: 0.01%
+             Top: 0.01%
+        Bg TOTAL: 61% (2.7MB-2.8MB-2.9MB/2.4MB-2.5MB-2.6MB over 12)
+        (Cached): 61% (2.7MB-2.8MB-2.9MB/2.4MB-2.5MB-2.6MB over 12)
+  * com.samsung.klmsagent / u0a25 / v2:
+           TOTAL: 0.01%
+         Service: 0.01%
+        Bg TOTAL: 100% (712KB-1.5MB-1.9MB/312KB-1.1MB-1.6MB over 25)
+        (Cached): 100% (712KB-1.5MB-1.9MB/312KB-1.1MB-1.6MB over 25)
+  * com.samsung.android.provider.shootingmodeprovider / u0a197 / v1:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 1.0%
+        (Cached): 1.0%
+  * com.samsung.android.intelligenceservice2 / 5010 / v240802000:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 0.71%
+        (Cached): 0.71%
+  * com.sec.app.TransmitPowerService / u0a75 / v1:
+           TOTAL: 0.01%
+         Service: 0.01%
+        Bg TOTAL: 2.1% (2.5MB-2.6MB-2.6MB/2.1MB-2.2MB-2.2MB over 2)
+        (Cached): 2.1% (2.5MB-2.6MB-2.6MB/2.1MB-2.2MB-2.2MB over 2)
+  * com.sec.android.widgetapp.samsungapps / u0a139 / v105052:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 29% (2.6MB-2.7MB-2.7MB/2.3MB-2.4MB-2.4MB over 9)
+        (Cached): 29% (2.6MB-2.7MB-2.7MB/2.3MB-2.4MB-2.4MB over 9)
+  * com.samsung.android.snote:sync / u0a180 / v520125000:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 25% (4.9MB-6.1MB-7.3MB/2.5MB-3.8MB-5.6MB over 5)
+        (Cached): 25% (4.9MB-6.1MB-7.3MB/2.5MB-3.8MB-5.6MB over 5)
+  * com.samsung.android.app.pinboard:sync / u0a49 / v1600900200:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 18% (4.6MB-4.7MB-4.8MB/3.1MB-3.1MB-3.2MB over 3)
+        (Cached): 18% (4.6MB-4.7MB-4.8MB/3.1MB-3.1MB-3.2MB over 3)
+  * com.sec.knox.switcher / 1000 / v4001002:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 19% (2.9MB-2.9MB-2.9MB/2.5MB-2.5MB-2.6MB over 3)
+        (Cached): 19% (2.9MB-2.9MB-2.9MB/2.5MB-2.5MB-2.6MB over 3)
+  * com.google.android.partnersetup / u0a21 / v23:
+           TOTAL: 0.01%
+        Bg TOTAL: 0.54%
+        (Cached): 0.54%
+  * com.samsung.android.themestore / u0a73 / v10330:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 20% (4.9MB-5.0MB-5.1MB/4.4MB-4.5MB-4.6MB over 4)
+        (Cached): 20% (4.9MB-5.0MB-5.1MB/4.4MB-4.5MB-4.6MB over 4)
+  * com.samsung.android.bbc.bbcagent / 1000 / v2:
+           TOTAL: 0.01%
+        Bg TOTAL: 0.69%
+        (Cached): 0.69%
+  * com.samsung.android.app.assistantmenu / 1000 / v158800111:
+           TOTAL: 0.01%
+        Bg TOTAL: 37% (3.3MB-3.4MB-3.5MB/2.9MB-3.0MB-3.2MB over 12)
+        (Cached): 37% (3.3MB-3.4MB-3.5MB/2.9MB-3.0MB-3.2MB over 12)
+  * com.sec.android.app.music:provider / u0a41 / v1619116800:
+           TOTAL: 0.01%
+         Service: 0.01%
+        Bg TOTAL: 2.3% (5.4MB-5.4MB-5.4MB/3.7MB-3.7MB-3.7MB over 1)
+        (Cached): 2.3% (5.4MB-5.4MB-5.4MB/3.7MB-3.7MB-3.7MB over 1)
+  * com.samsung.android.asksmanager / u0a56 / v100800000:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 0.99%
+        (Cached): 0.99%
+  * com.samsung.android.app.filterinstaller / 1000 / v200000000:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 1.6% (2.3MB-2.3MB-2.3MB/2.0MB-2.0MB-2.0MB over 1)
+        (Cached): 1.6% (2.3MB-2.3MB-2.3MB/2.0MB-2.0MB-2.0MB over 1)
+  * com.sec.android.iap / u0a24 / v306000:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 42% (3.0MB-3.1MB-3.3MB/2.6MB-2.7MB-2.9MB over 13)
+        (Cached): 42% (3.0MB-3.1MB-3.3MB/2.6MB-2.7MB-2.9MB over 13)
+  * com.samsung.android.sm.policy / u0a306 / v100700000:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 19% (2.7MB-2.8MB-2.9MB/2.4MB-2.4MB-2.5MB over 3)
+        (Cached): 19% (2.7MB-2.8MB-2.9MB/2.4MB-2.4MB-2.5MB over 3)
+  * com.sec.android.app.soundalive / u0a69 / v315300810:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 40% (2.5MB-2.6MB-2.8MB/2.2MB-2.2MB-2.4MB over 6)
+        (Cached): 40% (2.5MB-2.6MB-2.8MB/2.2MB-2.2MB-2.4MB over 6)
+  * com.android.keychain / 1000 / v23:
+           TOTAL: 0.01%
+        Bg TOTAL: 0.70%
+        (Cached): 0.70%
+  * com.samsung.knox.rcp.components / u0a173 / v4001020:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 36% (2.5MB-2.6MB-2.7MB/2.2MB-2.3MB-2.4MB over 12)
+        (Cached): 36% (2.5MB-2.6MB-2.7MB/2.2MB-2.3MB-2.4MB over 12)
+  * com.sec.android.app.popupuireceiver / 1000 / v1:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 3.2% (2.9MB-2.9MB-2.9MB/2.5MB-2.5MB-2.6MB over 2)
+        (Cached): 3.2% (2.9MB-2.9MB-2.9MB/2.5MB-2.5MB-2.6MB over 2)
+  * com.samsung.android.app.watchmanager / u0a17 / v2116101261:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 0.53%
+        (Cached): 0.53%
+  * com.samsung.android.app.watchmanagerstub / u0a141 / v111512310:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 10% (2.5MB-2.5MB-2.5MB/2.2MB-2.2MB-2.2MB over 1)
+        (Cached): 10% (2.5MB-2.5MB-2.5MB/2.2MB-2.2MB-2.2MB over 1)
+  * com.samsung.android.app.mirrorlink / 1000 / v105300007:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 1.6% (4.1MB-4.1MB-4.1MB/2.6MB-2.6MB-2.6MB over 1)
+        (Cached): 1.6% (4.1MB-4.1MB-4.1MB/2.6MB-2.6MB-2.6MB over 1)
+  * com.sec.tetheringprovision / u0a208 / v3:
+        Bg TOTAL: 0.84%
+        (Cached): 0.84%
+  * com.samsung.android.qconnect / u0a305 / v40:
+        Bg TOTAL: 29% (3.0MB-3.1MB-3.4MB/2.6MB-2.8MB-3.0MB over 10)
+        (Cached): 29% (3.0MB-3.1MB-3.4MB/2.6MB-2.8MB-3.0MB over 10)
+  * com.sec.android.sidesync.source / u0a199 / v121:
+        Bg TOTAL: 0.70%
+        (Cached): 0.70%
+  * com.facebook.system / u0a12 / v50573453:
+        Bg TOTAL: 8.3% (3.2MB-3.3MB-3.5MB/2.9MB-3.0MB-3.1MB over 4)
+        (Cached): 8.3% (3.2MB-3.3MB-3.5MB/2.9MB-3.0MB-3.1MB over 4)
+  * com.instagram.android:browser / u0a129 / v51631982:
+        Bg TOTAL: 1.2% (11MB-11MB-11MB/7.8MB-7.8MB-7.8MB over 1)
+        (Cached): 1.2% (11MB-11MB-11MB/7.8MB-7.8MB-7.8MB over 1)
+  * com.nianticlabs.pokemongo / u0a43 / v2017030300:
+        Bg TOTAL: 26% (4.3MB-4.5MB-4.6MB/3.1MB-3.2MB-3.2MB over 4)
+        (Cached): 26% (4.3MB-4.5MB-4.6MB/3.1MB-3.2MB-3.2MB over 4)
+  * com.android.contacts / u0a26 / v217202110:
+        Bg TOTAL: 100% (1.5MB-1.7MB-1.8MB/876KB-0.98MB-1.1MB over 18)
+        (Cached): 100% (1.5MB-1.7MB-1.8MB/876KB-0.98MB-1.1MB over 18)
+  * com.google.android.apps.photos:CameraShortcut / u0a170 / v826190:
+        Bg TOTAL: 19% (10MB-10MB-10MB/6.1MB-6.1MB-6.1MB over 2)
+        (Cached): 19% (10MB-10MB-10MB/6.1MB-6.1MB-6.1MB over 2)
+  * com.samsung.hs20provider / u0a150 / v1:
+        Bg TOTAL: 0.05%
+        (Cached): 0.05%
+  * com.wssnps / 1000 / v710900000:
+        Bg TOTAL: 3.3% (2.8MB-2.9MB-3.0MB/2.5MB-2.6MB-2.7MB over 2)
+        (Cached): 3.3% (2.8MB-2.9MB-3.0MB/2.5MB-2.6MB-2.7MB over 2)
+  * com.samsung.android.app.FileShareServer / 5005 / v19:
+        Bg TOTAL: 14% (3.2MB-3.2MB-3.3MB/1.9MB-2.0MB-2.0MB over 2)
+        (Cached): 14% (3.2MB-3.2MB-3.3MB/1.9MB-2.0MB-2.0MB over 2)
+  * com.sec.att.usagemanager3 / u0a211 / v1:
+        Bg TOTAL: 1.1% (2.8MB-2.8MB-2.8MB/2.5MB-2.5MB-2.5MB over 1)
+        (Cached): 1.1% (2.8MB-2.8MB-2.8MB/2.5MB-2.5MB-2.5MB over 1)
+  * com.mobeam.barcodeService / 1000 / v24:
+        Bg TOTAL: 9.1% (2.9MB-2.9MB-2.9MB/2.5MB-2.5MB-2.5MB over 1)
+        (Cached): 9.1% (2.9MB-2.9MB-2.9MB/2.5MB-2.5MB-2.5MB over 1)
+  * com.mobitv.client.tv / u0a85 / v20150921:
+        Bg TOTAL: 23% (3.3MB-3.4MB-3.6MB/2.2MB-2.2MB-2.3MB over 4)
+        (Cached): 23% (3.3MB-3.4MB-3.6MB/2.2MB-2.2MB-2.3MB over 4)
+  * com.android.mms / u0a62 / v219703110:
+        Bg TOTAL: 100% (2.1MB-2.4MB-2.7MB/0.89MB-1.2MB-1.6MB over 18)
+        (Cached): 100% (2.1MB-2.4MB-2.7MB/0.89MB-1.2MB-1.6MB over 18)
+  * com.samsung.android.app.FileShareClient / 5005 / v19:
+        Bg TOTAL: 4.5% (3.6MB-3.6MB-3.6MB/2.3MB-2.3MB-2.3MB over 1)
+        (Cached): 4.5% (3.6MB-3.6MB-3.6MB/2.3MB-2.3MB-2.3MB over 1)
+  * com.sec.android.app.music:service / u0a41 / v1619116800:
+        Bg TOTAL: 2.3% (5.7MB-5.7MB-5.7MB/4.1MB-4.1MB-4.1MB over 1)
+        (Cached): 2.3% (5.7MB-5.7MB-5.7MB/4.1MB-4.1MB-4.1MB over 1)
+  * com.samsung.android.securitylogagent / 1000 / v435200100:
+        Bg TOTAL: 14% (2.6MB-2.7MB-2.8MB/2.3MB-2.4MB-2.4MB over 2)
+        (Cached): 14% (2.6MB-2.7MB-2.8MB/2.3MB-2.4MB-2.4MB over 2)
+  * com.sec.android.Kies / 1000 / v1020:
+        Bg TOTAL: 0.41% (2.4MB-2.4MB-2.4MB/2.0MB-2.0MB-2.0MB over 1)
+        (Cached): 0.41% (2.4MB-2.4MB-2.4MB/2.0MB-2.0MB-2.0MB over 1)
+  * com.sec.hearingadjust / u0a23 / v205900700:
+        Bg TOTAL: 1.0% (2.6MB-2.6MB-2.6MB/2.3MB-2.3MB-2.3MB over 1)
+        (Cached): 1.0% (2.6MB-2.6MB-2.6MB/2.3MB-2.3MB-2.3MB over 1)
+  * com.sec.android.service.sm / 1000 / v38:
+        Bg TOTAL: 100% (686KB-742KB-832KB/292KB-363KB-452KB over 18)
+        (Cached): 100% (686KB-742KB-832KB/292KB-363KB-452KB over 18)
+  * com.android.managedprovisioning / u0a29 / v23:
+        Bg TOTAL: 100% (657KB-703KB-776KB/300KB-367KB-436KB over 18)
+        (Cached): 100% (657KB-703KB-776KB/300KB-367KB-436KB over 18)
+
+Run time Stats:
+  SOff/Norm: +1h39m29s600ms
+  SOn /Norm: +31m25s550ms (running)
+      TOTAL: +2h10m55s150ms
+
+Memory usage:
+  Kernel : 503MB (78 samples)
+  Native : 48MB (78 samples)
+  Persist: 495MB (280 samples)
+  Top    : 168MB (268 samples)
+  ImpFg  : 138MB (640 samples)
+  ImpBg  : 12MB (286 samples)
+  Service: 379MB (1646 samples)
+  Receivr: 238KB (1696 samples)
+  Home   : 65MB (48 samples)
+  LastAct: 51KB (110 samples)
+  CchCAct: 98KB (6 samples)
+  CchEmty: 289MB (935 samples)
+  Cached : 0.94GB (78 samples)
+  Free   : 96MB (78 samples)
+  TOTAL  : 3.1GB
+  ServRst: 499KB (701 samples)
+
+          Start time: 2017-03-13 13:03:29
+  Total elapsed time: +3h1m55s22ms (partial) libart.so
+
+AGGREGATED OVER LAST 24 HOURS:
+  * com.google.android.gms.persistent / u0a18 / v10298440:
+           TOTAL: 100% (36MB-41MB-47MB/31MB-37MB-42MB over 142)
+             Top: 57% (36MB-42MB-47MB/31MB-37MB-42MB over 91)
+          Imp Fg: 43% (36MB-41MB-47MB/31MB-36MB-41MB over 51)
+  * com.ipsec.service / 1000 / v8:
+           TOTAL: 100% (616KB-791KB-1.3MB/272KB-440KB-0.95MB over 66)
+          Imp Fg: 100% (616KB-791KB-1.3MB/272KB-440KB-0.95MB over 66)
+  * diagandroid.iqd / 1000 / v23:
+           TOTAL: 100% (6.4MB-8.6MB-10MB/5.8MB-7.9MB-9.7MB over 65)
+      Persistent: 100% (6.4MB-8.6MB-10MB/5.8MB-7.9MB-9.7MB over 65)
+  * com.android.bluetooth / 1002 / v23:
+           TOTAL: 100% (5.1MB-7.6MB-8.9MB/3.5MB-5.9MB-7.0MB over 67)
+          Imp Fg: 100% (5.1MB-7.6MB-8.9MB/3.5MB-5.9MB-7.0MB over 67)
+  * com.sec.imsservice:ConfigService / 1000 / v1:
+           TOTAL: 100% (857KB-2.3MB-4.4MB/324KB-1.7MB-3.7MB over 65)
+      Persistent: 100% (857KB-2.3MB-4.4MB/324KB-1.7MB-3.7MB over 65)
+  * com.samsung.android.qconnect:QcBgService / u0a305 / v40:
+           TOTAL: 100% (2.0MB-2.6MB-4.5MB/1.6MB-2.1MB-3.9MB over 66)
+          Imp Fg: 100% (2.0MB-2.6MB-4.5MB/1.6MB-2.1MB-3.9MB over 66)
+  * org.simalliance.openmobileapi.service:remote / u0a312 / v8:
+           TOTAL: 100% (637KB-1.00MB-1.3MB/252KB-630KB-0.94MB over 67)
+          Imp Fg: 100% (637KB-1.00MB-1.3MB/252KB-630KB-0.94MB over 67)
+  * com.google.android.googlequicksearchbox:interactor / u0a77 / v300730590:
+           TOTAL: 100% (1.0MB-1.3MB-2.1MB/292KB-584KB-1.3MB over 66)
+          Imp Fg: 100% (1.0MB-1.3MB-2.1MB/292KB-584KB-1.3MB over 66)
+  * com.sec.smartcard.manager / u0a203 / v10:
+           TOTAL: 100% (866KB-1.1MB-1.3MB/500KB-721KB-0.96MB over 67)
+          Imp Fg: 100% (866KB-1.1MB-1.3MB/500KB-721KB-0.96MB over 67)
+  * com.android.phone / 1001 / v1:
+           TOTAL: 100% (27MB-40MB-64MB/23MB-37MB-59MB over 67)
+      Persistent: 100% (27MB-40MB-64MB/23MB-37MB-59MB over 67)
+  * com.asurion.android.mobilerecovery.att / u0a30 / v1800001203:
+           TOTAL: 100% (2.9MB-4.9MB-7.7MB/1.9MB-3.9MB-6.6MB over 60)
+         Service: 100% (2.9MB-4.9MB-7.7MB/1.9MB-3.9MB-6.6MB over 60)
+  * com.samsung.android.providers.context / u0a296 / v8:
+           TOTAL: 100% (6.9MB-8.5MB-12MB/5.3MB-6.9MB-10MB over 66)
+      Persistent: 100% (6.9MB-8.5MB-12MB/5.3MB-6.9MB-10MB over 66)
+  * com.sec.imsservice:CloudMessageService / 1000 / v1:
+           TOTAL: 100% (1.7MB-4.9MB-12MB/1.0MB-4.1MB-11MB over 65)
+      Persistent: 100% (1.7MB-4.9MB-12MB/1.0MB-4.1MB-11MB over 65)
+  * com.facebook.orca / u0a231 / v51652255:
+           TOTAL: 100% (20MB-40MB-76MB/15MB-36MB-70MB over 60)
+          Imp Bg: 0.01%
+         Service: 100% (20MB-40MB-76MB/15MB-36MB-70MB over 60)
+  * com.google.android.gms / u0a18 / v10298440:
+           TOTAL: 100% (62MB-76MB-107MB/46MB-64MB-101MB over 126)
+             Top: 1.9% (66MB-71MB-80MB/52MB-56MB-63MB over 3)
+          Imp Fg: 27% (64MB-77MB-107MB/50MB-64MB-101MB over 37)
+          Imp Bg: 0.12%
+         Service: 71% (62MB-76MB-91MB/46MB-65MB-85MB over 86)
+  * com.matchboxmobile.wisp / u0a215 / v83:
+           TOTAL: 100% (1.3MB-1.5MB-1.9MB/0.96MB-1.2MB-1.5MB over 60)
+         Service: 100% (1.3MB-1.5MB-1.9MB/0.96MB-1.2MB-1.5MB over 60)
+  * system / 1000 / v23:
+           TOTAL: 100% (148MB-195MB-253MB/138MB-187MB-242MB over 66)
+      Persistent: 100% (148MB-195MB-253MB/138MB-187MB-242MB over 66)
+  * com.android.phone / 1000 / v23:
+           TOTAL: 100%
+      Service Rs: 100%
+  * com.sec.vsimservice / 1000 / v1:
+           TOTAL: 100% (1.4MB-2.7MB-5.0MB/0.91MB-2.1MB-4.4MB over 66)
+      Persistent: 100% (1.4MB-2.7MB-5.0MB/0.91MB-2.1MB-4.4MB over 66)
+  * com.samsung.android.themecenter / 1000 / v2010000:
+           TOTAL: 100% (730KB-1.2MB-1.6MB/260KB-748KB-1.1MB over 66)
+          Imp Fg: 100% (730KB-1.2MB-1.6MB/260KB-748KB-1.1MB over 66)
+  * com.android.systemui / u0a70 / v23:
+           TOTAL: 100% (121MB-197MB-245MB/116MB-192MB-241MB over 65)
+      Persistent: 100% (121MB-197MB-245MB/116MB-192MB-241MB over 65)
+  * com.sec.android.inputmethod / 1000 / v145401010:
+           TOTAL: 100% (8.4MB-22MB-56MB/6.0MB-19MB-53MB over 66)
+          Imp Fg: 0.59% (56MB-56MB-56MB/53MB-53MB-53MB over 1)
+          Imp Bg: 99% (8.4MB-21MB-33MB/6.0MB-19MB-30MB over 65)
+  * com.sec.imsservice / 1000 / v1:
+           TOTAL: 100% (10MB-17MB-21MB/9.1MB-15MB-20MB over 67)
+      Persistent: 100% (10MB-17MB-21MB/9.1MB-15MB-20MB over 67)
+  * com.sec.spp.push / u0a44 / v160100000:
+           TOTAL: 100% (7.2MB-8.6MB-9.7MB/6.4MB-7.8MB-8.9MB over 60)
+         Service: 100% (7.2MB-8.6MB-9.7MB/6.4MB-7.8MB-8.9MB over 60)
+  * com.samsung.android.beaconmanager / 5006 / v41:
+           TOTAL: 100% (1.1MB-2.1MB-3.5MB/716KB-1.7MB-3.0MB over 66)
+          Imp Fg: 100% (1.1MB-2.1MB-3.5MB/716KB-1.7MB-3.0MB over 66)
+  * com.samsung.android.fingerprint.service / 1000 / v10100:
+           TOTAL: 100% (629KB-0.91MB-1.5MB/240KB-560KB-1.1MB over 66)
+          Imp Fg: 100% (629KB-0.91MB-1.5MB/240KB-560KB-1.1MB over 66)
+  * com.sec.phone / 1001 / v1:
+           TOTAL: 100% (794KB-1.1MB-1.7MB/380KB-729KB-1.3MB over 66)
+          Imp Fg: 100% (794KB-1.1MB-1.7MB/380KB-729KB-1.3MB over 66)
+  * com.sec.android.app.wfdbroker / 1000 / v109301517:
+           TOTAL: 100% (540KB-750KB-1.2MB/228KB-423KB-840KB over 65)
+      Persistent: 100% (540KB-750KB-1.2MB/228KB-423KB-840KB over 65)
+  * com.android.systemui.recents / u0a70 / v23:
+           TOTAL: 100% (15MB-23MB-56MB/11MB-19MB-49MB over 81)
+             Top: 0.30%
+          Imp Fg: 100% (15MB-23MB-56MB/11MB-19MB-49MB over 81)
+  * com.sec.vsim.ericssonnsds.webapp / u0a58 / v1:
+           TOTAL: 100% (540KB-744KB-1.1MB/232KB-419KB-832KB over 65)
+      Persistent: 100% (540KB-744KB-1.1MB/232KB-419KB-832KB over 65)
+  * com.android.nfc / 1027 / v23:
+           TOTAL: 100% (4.5MB-8.5MB-14MB/3.2MB-7.2MB-13MB over 65)
+      Persistent: 100% (4.5MB-8.5MB-14MB/3.2MB-7.2MB-13MB over 65)
+  * com.samsung.ucs.agent.boot / 1000 / v23:
+           TOTAL: 100% (830KB-0.98MB-1.3MB/484KB-652KB-0.93MB over 67)
+          Imp Fg: 100% (830KB-0.98MB-1.3MB/484KB-652KB-0.93MB over 67)
+  * com.samsung.ucs.ucspinpad / 1000 / v1:
+           TOTAL: 100% (563KB-757KB-1.1MB/228KB-418KB-824KB over 66)
+          Imp Fg: 100% (563KB-757KB-1.1MB/228KB-418KB-824KB over 66)
+  * com.sec.sve / 1000 / v1:
+           TOTAL: 100% (695KB-0.89MB-1.3MB/224KB-418KB-848KB over 66)
+      Persistent: 100% (695KB-0.89MB-1.3MB/224KB-418KB-848KB over 66)
+  * com.sec.android.app.SamsungContentsAgent / u0a190 / v100300000:
+           TOTAL: 100% (538KB-745KB-1.1MB/228KB-417KB-824KB over 65)
+      Persistent: 100% (538KB-745KB-1.1MB/228KB-417KB-824KB over 65)
+  * com.facebook.katana / u0a130 / v51686781:
+           TOTAL: 100% (27MB-62MB-172MB/21MB-56MB-163MB over 65)
+             Top: 0.18% (172MB-172MB-172MB/163MB-163MB-163MB over 1)
+          Imp Fg: 0.01%
+          Imp Bg: 0.06%
+         Service: 100% (27MB-61MB-86MB/21MB-54MB-80MB over 64)
+  * com.samsung.android.spayfw / 1200 / v273801000:
+           TOTAL: 100% (2.1MB-7.5MB-12MB/1.5MB-6.9MB-12MB over 63)
+         Service: 100% (2.1MB-7.5MB-12MB/1.5MB-6.9MB-12MB over 63)
+      Service Rs: 0.03%
+  * com.samsung.android.spay / u0a191 / v260000123:
+           TOTAL: 100% (13MB-23MB-39MB/8.6MB-18MB-34MB over 57)
+         Service: 100% (13MB-23MB-39MB/8.6MB-18MB-34MB over 57)
+      Service Rs: 0.03%
+  * com.att.myWireless:ZdaService / u0a87 / v61:
+           TOTAL: 100% (4.7MB-8.8MB-14MB/2.8MB-6.6MB-11MB over 60)
+         Service: 100% (4.7MB-8.8MB-14MB/2.8MB-6.6MB-11MB over 60)
+      Service Rs: 0.05%
+  * com.weather.samsung / u0a242 / v207010063:
+           TOTAL: 100% (31MB-51MB-267MB/30MB-49MB-249MB over 60)
+             Top: 0.77% (221MB-239MB-267MB/205MB-222MB-249MB over 3)
+         Service: 99% (31MB-42MB-51MB/30MB-40MB-49MB over 57)
+      Service Rs: 0.06%
+  * com.samsung.accessory.framework / u0a17 / v322:
+           TOTAL: 100% (3.2MB-5.1MB-6.7MB/2.7MB-4.7MB-6.2MB over 61)
+             Top: 0.18% (3.8MB-3.8MB-3.8MB/3.3MB-3.3MB-3.3MB over 1)
+          Imp Fg: 0.58% (3.4MB-3.7MB-3.9MB/2.9MB-3.1MB-3.4MB over 2)
+         Service: 99% (3.2MB-5.2MB-6.7MB/2.7MB-4.7MB-6.2MB over 58)
+      Service Rs: 0.07%
+  * com.instagram.android:mqtt / u0a129 / v51631982:
+           TOTAL: 100% (5.2MB-8.5MB-11MB/1.4MB-4.9MB-8.4MB over 62)
+         Service: 100% (5.2MB-8.5MB-11MB/1.4MB-4.9MB-8.4MB over 62)
+      Service Rs: 0.12%
+  * com.samsung.android.email.provider:service / u0a55 / v333803000:
+           TOTAL: 100% (5.9MB-10MB-18MB/4.7MB-8.3MB-15MB over 62)
+          Imp Fg: 0.01%
+          Imp Bg: 0.15%
+         Service: 100% (5.9MB-10MB-18MB/4.7MB-8.3MB-15MB over 62)
+      Service Rs: 0.12%
+  * com.att.android.digitallocker / u0a86 / v1610121430:
+           TOTAL: 100% (11MB-24MB-30MB/9.5MB-23MB-29MB over 59)
+         Service: 100% (11MB-24MB-30MB/9.5MB-23MB-29MB over 59)
+      Service Rs: 0.19%
+  * com.trustonic.tuiservice / 1000 / v1:
+           TOTAL: 100% (0.89MB-2.2MB-2.7MB/580KB-1.9MB-2.3MB over 55)
+         Service: 100% (0.89MB-2.2MB-2.7MB/580KB-1.9MB-2.3MB over 55)
+      Service Rs: 0.09%
+  * com.sec.android.app.SmartClipService / u0a201 / v104000000:
+           TOTAL: 100% (1.5MB-3.5MB-4.1MB/1.1MB-3.1MB-3.7MB over 58)
+         Service: 100% (1.5MB-3.5MB-4.1MB/1.1MB-3.1MB-3.7MB over 58)
+      Service Rs: 0.13%
+  * com.samsung.android.fmm / 1000 / v611400100:
+           TOTAL: 100% (1.4MB-4.6MB-5.4MB/0.96MB-4.0MB-4.9MB over 54)
+         Service: 100% (1.4MB-4.6MB-5.4MB/0.96MB-4.0MB-4.9MB over 54)
+      Service Rs: 0.17%
+  * com.smlds / u0a300 / v110300000:
+           TOTAL: 100% (1.5MB-3.9MB-5.1MB/1.0MB-3.4MB-4.6MB over 58)
+         Service: 100% (1.5MB-3.9MB-5.1MB/1.0MB-3.4MB-4.6MB over 58)
+      Service Rs: 0.24%
+  * com.ws.dm / 1000 / v223700200:
+           TOTAL: 100% (2.7MB-5.7MB-6.6MB/2.1MB-5.1MB-6.0MB over 57)
+         Service: 100% (2.7MB-5.7MB-6.6MB/2.1MB-5.1MB-6.0MB over 57)
+      Service Rs: 0.28%
+  * com.sec.android.app.shealth:remote / u0a40 / v5600031:
+           TOTAL: 100% (26MB-32MB-42MB/23MB-29MB-40MB over 60)
+             Top: 5.8% (32MB-34MB-36MB/25MB-27MB-29MB over 2)
+          Imp Fg: 0.22% (35MB-35MB-35MB/27MB-27MB-27MB over 1)
+          Imp Bg: 0.01%
+         Service: 94% (26MB-32MB-42MB/23MB-29MB-40MB over 57)
+      Service Rs: 0.12%
+        Bg TOTAL: 0.02%
+        (Cached): 0.02%
+  * com.facebook.katana:videoplayer / u0a130 / v51686781:
+           TOTAL: 93% (3.9MB-6.7MB-10MB/712KB-3.3MB-6.2MB over 60)
+          Imp Fg: 0.18% (10MB-10MB-10MB/6.2MB-6.2MB-6.2MB over 1)
+          Imp Bg: 0.06%
+         Service: 93% (3.9MB-6.6MB-9.6MB/712KB-3.3MB-6.1MB over 59)
+  * org.speedspot.speedspotspeedtest / u0a328 / v14:
+           TOTAL: 80% (9.1MB-15MB-19MB/8.1MB-14MB-18MB over 47)
+         Service: 80% (9.1MB-15MB-19MB/8.1MB-14MB-18MB over 47)
+      Service Rs: 0.05%
+        Bg TOTAL: 1.9% (11MB-11MB-11MB/11MB-11MB-11MB over 1)
+        (Cached): 1.9% (11MB-11MB-11MB/11MB-11MB-11MB over 1)
+  * com.samsung.android.snote:instantMemo / u0a180 / v520125000:
+           TOTAL: 67% (17MB-20MB-23MB/12MB-14MB-18MB over 62)
+         Service: 67% (17MB-20MB-23MB/12MB-14MB-18MB over 62)
+        Bg TOTAL: 24% (16MB-19MB-22MB/11MB-14MB-17MB over 38)
+        (Cached): 24% (16MB-19MB-22MB/11MB-14MB-17MB over 38)
+  * com.google.android.googlequicksearchbox:search / u0a77 / v300730590:
+           TOTAL: 53% (30MB-75MB-244MB/24MB-67MB-227MB over 64)
+             Top: 46% (30MB-67MB-244MB/24MB-60MB-227MB over 49)
+          Imp Fg: 0.89% (42MB-162MB-195MB/39MB-147MB-176MB over 6)
+          Imp Bg: 5.0% (41MB-43MB-44MB/36MB-39MB-42MB over 7)
+         Service: 0.49% (49MB-113MB-176MB/44MB-101MB-158MB over 2)
+      Service Rs: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 47% (28MB-38MB-49MB/22MB-34MB-44MB over 37)
+          (Home): 47% (28MB-38MB-49MB/22MB-34MB-44MB over 37)
+  * com.sec.android.app.launcher / u0a74 / v215801000:
+           TOTAL: 46% (94MB-158MB-209MB/91MB-155MB-206MB over 45)
+             Top: 46% (94MB-158MB-209MB/91MB-155MB-206MB over 45)
+        Bg TOTAL: 54% (72MB-97MB-120MB/69MB-93MB-117MB over 43)
+          (Home): 54% (72MB-97MB-120MB/69MB-93MB-117MB over 43)
+  * com.samsung.android.communicationservice / 5002 / v113502100:
+           TOTAL: 22% (2.3MB-5.3MB-7.2MB/1.3MB-4.4MB-6.3MB over 10)
+          Imp Fg: 0.01%
+         Service: 22% (2.3MB-5.3MB-7.2MB/1.3MB-4.4MB-6.3MB over 10)
+  * com.android.vending / u0a35 / v80750800:
+           TOTAL: 20% (12MB-17MB-26MB/11MB-16MB-25MB over 43)
+             Top: 11% (12MB-19MB-26MB/11MB-18MB-25MB over 32)
+          Imp Fg: 8.8% (12MB-12MB-20MB/11MB-12MB-19MB over 11)
+          Imp Bg: 0.02%
+         Service: 0.21%
+        Receiver: 0.01%
+        Bg TOTAL: 56% (11MB-18MB-26MB/11MB-17MB-24MB over 41)
+      (Last Act): 0.29%
+        (Cached): 56% (11MB-18MB-26MB/11MB-17MB-24MB over 41)
+  * android.process.media / u0a53 / v814:
+           TOTAL: 17% (9.3MB-10MB-13MB/8.4MB-9.2MB-12MB over 12)
+          Imp Fg: 0.02%
+         Service: 17% (9.3MB-10MB-13MB/8.4MB-9.2MB-12MB over 12)
+        Bg TOTAL: 83% (6.7MB-9.2MB-13MB/5.7MB-8.2MB-12MB over 56)
+        (Cached): 83% (6.7MB-9.2MB-13MB/5.7MB-8.2MB-12MB over 56)
+  * com.samsung.android.MtpApplication / 1000 / v1:
+           TOTAL: 17% (2.3MB-4.7MB-6.3MB/1.7MB-4.1MB-5.8MB over 12)
+          Imp Fg: 17% (2.3MB-4.7MB-6.3MB/1.7MB-4.1MB-5.8MB over 12)
+        Bg TOTAL: 0.38% (2.7MB-2.7MB-2.7MB/2.3MB-2.3MB-2.3MB over 1)
+        (Cached): 0.38% (2.7MB-2.7MB-2.7MB/2.3MB-2.3MB-2.3MB over 1)
+  * com.samsung.voiceserviceplatform / u0a45 / v193502136:
+           TOTAL: 16% (15MB-28MB-32MB/12MB-26MB-30MB over 10)
+         Service: 16% (15MB-28MB-32MB/12MB-26MB-30MB over 10)
+        Receiver: 0.01%
+  * com.samsung.SMT / 1000 / v201503021:
+           TOTAL: 16% (4.2MB-26MB-32MB/3.8MB-26MB-32MB over 10)
+         Service: 16% (4.2MB-26MB-32MB/3.8MB-26MB-32MB over 10)
+  * com.example.android.miwok / u0a95 / v1:
+           TOTAL: 15% (6.2MB-19MB-47MB/5.6MB-18MB-45MB over 16)
+             Top: 1.5% (45MB-46MB-47MB/43MB-44MB-45MB over 5)
+         Service: 14% (6.2MB-6.4MB-6.6MB/5.6MB-5.9MB-6.1MB over 11)
+      Service Rs: 0.02%
+  * com.instagram.android / u0a129 / v51631982:
+           TOTAL: 12% (142MB-242MB-386MB/134MB-235MB-378MB over 24)
+             Top: 12% (142MB-242MB-386MB/134MB-235MB-378MB over 24)
+         Service: 0.03%
+        Receiver: 0.03%
+        Bg TOTAL: 80% (12MB-21MB-220MB/8.3MB-17MB-213MB over 53)
+      (Last Act): 0.04%
+        (Cached): 80% (12MB-21MB-220MB/8.3MB-17MB-213MB over 53)
+  * com.instagram.android:igplayer / u0a129 / v51631982:
+           TOTAL: 12% (5.2MB-9.0MB-22MB/2.8MB-6.1MB-19MB over 23)
+             Top: 12% (5.2MB-9.0MB-22MB/2.8MB-6.1MB-19MB over 23)
+        Bg TOTAL: 0.32% (8.2MB-8.2MB-8.2MB/5.3MB-5.3MB-5.3MB over 1)
+      (Last Act): 0.04%
+        (Cached): 0.28% (8.2MB-8.2MB-8.2MB/5.3MB-5.3MB-5.3MB over 1)
+  * com.pandora.android / u0a229 / v82011:
+           TOTAL: 11% (183MB-298MB-361MB/165MB-279MB-336MB over 21)
+             Top: 1.7% (197MB-294MB-361MB/178MB-275MB-336MB over 11)
+          Imp Fg: 8.8% (183MB-302MB-336MB/165MB-283MB-317MB over 10)
+         Service: 0.02%
+        Receiver: 0.01%
+        Bg TOTAL: 18% (30MB-30MB-30MB/28MB-28MB-28MB over 16)
+        (Cached): 18% (30MB-30MB-30MB/28MB-28MB-28MB over 16)
+  * com.pandora.android:MarshmallowDozeService / u0a229 / v82011:
+           TOTAL: 10% (4.9MB-5.3MB-5.5MB/3.5MB-3.9MB-4.0MB over 20)
+             Top: 1.3% (4.9MB-5.4MB-5.5MB/3.5MB-3.9MB-4.0MB over 10)
+          Imp Fg: 8.8% (5.1MB-5.3MB-5.5MB/3.6MB-3.8MB-4.0MB over 10)
+        Bg TOTAL: 0.29%
+        (Cached): 0.29%
+  * wsj.reader_sp / u0a230 / v380085:
+           TOTAL: 9.1% (131MB-230MB-278MB/122MB-214MB-260MB over 20)
+             Top: 9.0% (131MB-230MB-278MB/122MB-214MB-260MB over 20)
+         Service: 0.13%
+        Bg TOTAL: 37% (22MB-25MB-31MB/21MB-23MB-30MB over 21)
+      (Last Act): 0.02%
+        (Cached): 37% (22MB-25MB-31MB/21MB-23MB-30MB over 21)
+  * com.soundcloud.android / u0a307 / v607:
+           TOTAL: 6.7% (122MB-174MB-197MB/115MB-167MB-190MB over 6)
+             Top: 0.23% (163MB-180MB-197MB/156MB-173MB-190MB over 2)
+          Imp Fg: 5.6% (185MB-187MB-191MB/178MB-180MB-184MB over 3)
+          Imp Bg: 0.11%
+         Service: 0.71% (122MB-122MB-122MB/115MB-115MB-115MB over 1)
+        Bg TOTAL: 50% (36MB-50MB-120MB/32MB-46MB-113MB over 28)
+        (Cached): 50% (36MB-50MB-120MB/32MB-46MB-113MB over 28)
+  * com.android.chrome / u0a112 / v292408701:
+           TOTAL: 6.3% (139MB-151MB-160MB/129MB-141MB-151MB over 16)
+             Top: 6.2% (139MB-151MB-160MB/129MB-141MB-151MB over 16)
+         Service: 0.05%
+        Receiver: 0.02%
+        Bg TOTAL: 46% (14MB-24MB-100MB/11MB-21MB-92MB over 31)
+      (Last Act): 0.01%
+        (Cached): 46% (14MB-24MB-100MB/11MB-21MB-92MB over 31)
+  * com.android.chrome:privileged_process0 / u0a112 / v292408701:
+           TOTAL: 6.2% (58MB-61MB-67MB/52MB-56MB-61MB over 16)
+             Top: 6.2% (58MB-61MB-67MB/52MB-56MB-61MB over 16)
+         Service: 0.03%
+        Bg TOTAL: 8.7% (10.0MB-13MB-16MB/5.3MB-8.6MB-11MB over 4)
+        (Cached): 8.7% (10.0MB-13MB-16MB/5.3MB-8.6MB-11MB over 4)
+  * com.sec.android.app.shealth / u0a40 / v5600031:
+           TOTAL: 6.1% (145MB-146MB-146MB/135MB-136MB-136MB over 4)
+             Top: 6.1% (145MB-146MB-146MB/135MB-136MB-136MB over 4)
+          Imp Bg: 0.01%
+         Service: 0.04%
+        Receiver: 0.02%
+        Bg TOTAL: 47% (9.7MB-17MB-25MB/6.7MB-13MB-20MB over 42)
+        (Cached): 47% (9.7MB-17MB-25MB/6.7MB-13MB-20MB over 42)
+  * com.sec.android.service.health / u0a22 / v211001:
+           TOTAL: 6.0% (6.3MB-6.8MB-8.0MB/4.8MB-5.2MB-6.4MB over 4)
+             Top: 6.0% (6.3MB-6.8MB-8.0MB/4.8MB-5.2MB-6.4MB over 4)
+        Bg TOTAL: 4.0% (4.1MB-4.2MB-4.5MB/2.4MB-2.6MB-2.8MB over 3)
+        (Cached): 4.0% (4.1MB-4.2MB-4.5MB/2.4MB-2.6MB-2.8MB over 3)
+  * com.android.chrome:sandboxed_process0 / u0i24 / v292408701:
+           TOTAL: 3.9% (38MB-39MB-40MB/29MB-29MB-30MB over 9)
+             Top: 3.9% (38MB-39MB-40MB/29MB-29MB-30MB over 9)
+  * com.android.chrome:sandboxed_process1 / u0i25 / v292408701:
+           TOTAL: 3.9% (34MB-48MB-58MB/24MB-38MB-48MB over 9)
+             Top: 3.9% (34MB-48MB-58MB/24MB-38MB-48MB over 9)
+  * com.google.android.gm / u0a142 / v58972787:
+           TOTAL: 1.1% (117MB-126MB-134MB/113MB-120MB-128MB over 5)
+             Top: 1.1% (117MB-126MB-134MB/113MB-120MB-128MB over 5)
+        Bg TOTAL: 6.3% (18MB-19MB-19MB/17MB-18MB-18MB over 4)
+      (Last Act): 0.02%
+        (Cached): 6.3% (18MB-19MB-19MB/17MB-18MB-18MB over 4)
+  * com.android.chrome:sandboxed_process1 / u0i23 / v292408701:
+           TOTAL: 0.96% (36MB-49MB-62MB/26MB-39MB-53MB over 2)
+             Top: 0.96% (36MB-49MB-62MB/26MB-39MB-53MB over 2)
+  * com.android.chrome:sandboxed_process0 / u0i22 / v292408701:
+           TOTAL: 0.90% (39MB-39MB-40MB/30MB-30MB-31MB over 2)
+             Top: 0.90% (39MB-39MB-40MB/30MB-30MB-31MB over 2)
+        Bg TOTAL: 0.07%
+        (Cached): 0.07%
+  * com.android.chrome:sandboxed_process3 / u0i16 / v292408701:
+           TOTAL: 0.75% (85MB-85MB-85MB/81MB-81MB-81MB over 1)
+             Top: 0.75% (85MB-85MB-85MB/81MB-81MB-81MB over 1)
+  * com.google.android.gms.feedback / u0a18 / v10298440:
+           TOTAL: 0.74% (4.5MB-9.9MB-17MB/2.1MB-7.4MB-14MB over 5)
+             Top: 0.73% (4.5MB-9.9MB-17MB/2.1MB-7.4MB-14MB over 5)
+        Bg TOTAL: 50% (2.8MB-7.7MB-15MB/440KB-5.0MB-12MB over 34)
+      (Last Act): 0.02%
+        (Cached): 50% (2.8MB-7.7MB-15MB/440KB-5.0MB-12MB over 34)
+  * com.ampsvc.android / u0a83 / v5072:
+           TOTAL: 0.67% (13MB-13MB-13MB/12MB-12MB-12MB over 1)
+         Service: 0.65% (13MB-13MB-13MB/12MB-12MB-12MB over 1)
+        Receiver: 0.02%
+        Bg TOTAL: 90% (12MB-17MB-24MB/11MB-16MB-23MB over 52)
+        (Cached): 90% (12MB-17MB-24MB/11MB-16MB-23MB over 52)
+  * com.google.android.apps.photos / u0a170 / v826190:
+           TOTAL: 0.43%
+         Service: 0.41%
+        Receiver: 0.02%
+        Bg TOTAL: 63% (13MB-18MB-25MB/13MB-17MB-21MB over 39)
+        (Cached): 63% (13MB-18MB-25MB/13MB-17MB-21MB over 39)
+  * com.EAGINsoftware.dejaloYa / u0a232 / v5048001:
+           TOTAL: 0.38%
+         Service: 0.20%
+        Receiver: 0.18%
+        Bg TOTAL: 99% (11MB-22MB-30MB/8.2MB-19MB-27MB over 249)
+        (Cached): 99% (11MB-22MB-30MB/8.2MB-19MB-27MB over 249)
+  * com.android.chrome:sandboxed_process0 / u0i21 / v292408701:
+           TOTAL: 0.30% (51MB-51MB-51MB/47MB-47MB-47MB over 1)
+             Top: 0.29% (51MB-51MB-51MB/47MB-47MB-47MB over 1)
+         Service: 0.01%
+  * com.samsung.android.email.provider / u0a55 / v333803000:
+           TOTAL: 0.29% (80MB-80MB-80MB/75MB-75MB-75MB over 1)
+             Top: 0.18% (80MB-80MB-80MB/75MB-75MB-75MB over 1)
+          Imp Bg: 0.04%
+         Service: 0.07%
+        Bg TOTAL: 57% (8.8MB-9.1MB-10MB/6.4MB-6.7MB-7.7MB over 28)
+      (Last Act): 0.02%
+        (Cached): 57% (8.8MB-9.1MB-10MB/6.4MB-6.7MB-7.7MB over 28)
+  * com.oanda.fxtrade / u0a50 / v4100224:
+           TOTAL: 0.29% (124MB-124MB-124MB/120MB-120MB-120MB over 1)
+             Top: 0.29% (124MB-124MB-124MB/120MB-120MB-120MB over 1)
+        Bg TOTAL: 0.03%
+      (Last Act): 0.02%
+  * com.gamma.bubblelevel / u0a96 / v12:
+           TOTAL: 0.26% (230MB-230MB-230MB/212MB-212MB-212MB over 1)
+             Top: 0.26% (230MB-230MB-230MB/212MB-212MB-212MB over 1)
+  * com.android.defcontainer / u0a6 / v23:
+           TOTAL: 0.24% (3.1MB-3.1MB-3.1MB/2.5MB-2.5MB-2.5MB over 1)
+          Imp Fg: 0.24% (3.1MB-3.1MB-3.1MB/2.5MB-2.5MB-2.5MB over 1)
+        Bg TOTAL: 6.5% (2.6MB-2.7MB-2.7MB/2.2MB-2.3MB-2.3MB over 3)
+        (Cached): 6.5% (2.6MB-2.7MB-2.7MB/2.2MB-2.3MB-2.3MB over 3)
+  * com.google.android.talk / u0a146 / v23910504:
+           TOTAL: 0.23%
+         Service: 0.20%
+        Receiver: 0.02%
+        Bg TOTAL: 51% (24MB-26MB-28MB/21MB-24MB-26MB over 26)
+        (Cached): 51% (24MB-26MB-28MB/21MB-24MB-26MB over 26)
+  * com.google.process.gapps / u0a18 / v23:
+           TOTAL: 0.18%
+             Top: 0.05%
+          Imp Fg: 0.01%
+          Imp Bg: 0.01%
+         Service: 0.08%
+        Receiver: 0.02%
+        Bg TOTAL: 100% (3.2MB-4.3MB-5.9MB/2.7MB-3.9MB-5.4MB over 108)
+        (Cached): 100% (3.2MB-4.3MB-5.9MB/2.7MB-3.9MB-5.4MB over 108)
+  * com.android.captiveportallogin / u0a109 / v23:
+           TOTAL: 0.17% (86MB-86MB-86MB/72MB-72MB-72MB over 1)
+             Top: 0.17% (86MB-86MB-86MB/72MB-72MB-72MB over 1)
+        Bg TOTAL: 0.33% (126MB-126MB-126MB/110MB-110MB-110MB over 1)
+        (Cached): 0.33% (126MB-126MB-126MB/110MB-110MB-110MB over 1)
+  * com.lookout / u0a27 / v10100019:
+           TOTAL: 0.16%
+         Service: 0.15%
+        Receiver: 0.01%
+        Bg TOTAL: 29% (28MB-40MB-48MB/25MB-37MB-45MB over 21)
+        (Cached): 29% (28MB-40MB-48MB/25MB-37MB-45MB over 21)
+  * com.android.chrome:sandboxed_process7 / u0i20 / v292408701:
+           TOTAL: 0.14% (92MB-92MB-92MB/86MB-86MB-86MB over 1)
+             Top: 0.13% (92MB-92MB-92MB/86MB-86MB-86MB over 1)
+  * com.cequint.ecid / u0a9 / v545660:
+           TOTAL: 0.11%
+         Service: 0.10%
+        Receiver: 0.01%
+        Bg TOTAL: 6.8% (7.2MB-7.4MB-7.9MB/6.1MB-6.3MB-6.7MB over 5)
+        (Cached): 6.8% (7.2MB-7.4MB-7.9MB/6.1MB-6.3MB-6.7MB over 5)
+  * com.google.android.youtube / u0a222 / v120553140:
+           TOTAL: 0.11%
+         Service: 0.11%
+        Bg TOTAL: 8.7% (43MB-44MB-45MB/40MB-41MB-42MB over 6)
+        (Cached): 8.7% (43MB-44MB-45MB/40MB-41MB-42MB over 6)
+  * com.android.providers.calendar / u0a52 / v23:
+           TOTAL: 0.09%
+          Imp Bg: 0.01%
+         Service: 0.08%
+        Bg TOTAL: 43% (4.5MB-4.7MB-5.1MB/4.0MB-4.2MB-4.6MB over 26)
+        (Cached): 43% (4.5MB-4.7MB-5.1MB/4.0MB-4.2MB-4.6MB over 26)
+  * com.android.chrome:sandboxed_process0 / u0i6 / v292408701:
+           TOTAL: 0.09% (77MB-77MB-77MB/72MB-72MB-72MB over 1)
+             Top: 0.09% (77MB-77MB-77MB/72MB-72MB-72MB over 1)
+        Bg TOTAL: 0.05%
+        (Cached): 0.05%
+  * com.android.mms / u0a62 / v219703110:
+           TOTAL: 0.09%
+             Top: 0.02%
+         Service: 0.05%
+        Receiver: 0.01%
+        Bg TOTAL: 99% (2.1MB-5.7MB-28MB/0.89MB-4.3MB-24MB over 55)
+      (Last Act): 0.01%
+        (Cached): 99% (2.1MB-5.7MB-28MB/0.89MB-4.3MB-24MB over 55)
+  * com.google.android.gms.unstable / u0a18 / v10298440:
+           TOTAL: 0.08%
+             Top: 0.04%
+         Service: 0.04%
+        Bg TOTAL: 1.2% (21MB-21MB-21MB/18MB-18MB-18MB over 1)
+        (Cached): 1.2% (21MB-21MB-21MB/18MB-18MB-18MB over 1)
+  * com.raterhub.mera / u0a34 / v39:
+           TOTAL: 0.08%
+         Service: 0.07%
+        Receiver: 0.01%
+        Bg TOTAL: 7.0% (8.9MB-17MB-26MB/8.1MB-13MB-20MB over 6)
+        (Cached): 7.0% (8.9MB-17MB-26MB/8.1MB-13MB-20MB over 6)
+  * android.process.acore / u0a26 / v19:
+           TOTAL: 0.07%
+             Top: 0.01%
+          Imp Fg: 0.02%
+          Imp Bg: 0.01%
+         Service: 0.02%
+        Receiver: 0.01%
+        Bg TOTAL: 100% (6.8MB-8.9MB-12MB/6.0MB-8.1MB-12MB over 88)
+        (Cached): 100% (6.8MB-8.9MB-12MB/6.0MB-8.1MB-12MB over 88)
+  * com.myscript.atk.rmc.service.sample / u0a175 / v1503060056:
+           TOTAL: 0.06%
+         Service: 0.04%
+        Receiver: 0.03%
+        Bg TOTAL: 97% (672KB-1.9MB-2.7MB/316KB-1.6MB-2.3MB over 58)
+        (Cached): 97% (672KB-1.9MB-2.7MB/316KB-1.6MB-2.3MB over 58)
+  * com.android.chrome:sandboxed_process3 / u0i9 / v292408701:
+           TOTAL: 0.06% (53MB-53MB-53MB/48MB-48MB-48MB over 1)
+             Top: 0.06% (53MB-53MB-53MB/48MB-48MB-48MB over 1)
+  * com.samsung.enhanceservice / 5004 / v1:
+           TOTAL: 0.05%
+         Service: 0.02%
+      Service Rs: 0.03%
+        Bg TOTAL: 0.84% (2.5MB-2.5MB-2.6MB/2.2MB-2.2MB-2.2MB over 2)
+        (Cached): 0.84% (2.5MB-2.5MB-2.6MB/2.2MB-2.2MB-2.2MB over 2)
+  * com.samsung.dcmservice / 5004 / v1:
+           TOTAL: 0.05%
+         Service: 0.02%
+      Service Rs: 0.03%
+        Bg TOTAL: 0.85% (2.8MB-2.8MB-2.8MB/2.4MB-2.5MB-2.5MB over 2)
+        (Cached): 0.85% (2.8MB-2.8MB-2.8MB/2.4MB-2.5MB-2.5MB over 2)
+  * com.samsung.aasaservice / 1000 / v4:
+           TOTAL: 0.05%
+         Service: 0.01%
+      Service Rs: 0.02%
+        Receiver: 0.02%
+        Bg TOTAL: 8.2% (2.4MB-2.4MB-2.5MB/2.1MB-2.1MB-2.2MB over 8)
+        (Cached): 8.2% (2.4MB-2.4MB-2.5MB/2.1MB-2.1MB-2.2MB over 8)
+  * com.google.android.music:main / u0a162 / v44221:
+           TOTAL: 0.05%
+          Imp Bg: 0.04%
+         Service: 0.01%
+        Bg TOTAL: 26% (24MB-28MB-30MB/22MB-26MB-28MB over 13)
+        (Cached): 26% (24MB-28MB-30MB/22MB-26MB-28MB over 13)
+  * com.osp.app.signin / u0a48 / v220190000:
+           TOTAL: 0.05%
+         Service: 0.04%
+        Receiver: 0.01%
+        Bg TOTAL: 30% (6.6MB-8.6MB-12MB/6.2MB-8.1MB-12MB over 16)
+        (Cached): 30% (6.6MB-8.6MB-12MB/6.2MB-8.1MB-12MB over 16)
+  * com.doapps.android.mln.MLN_fac245c0cd451a91e8fa12de5db066de / u0a2 / v49080470:
+           TOTAL: 0.05%
+         Service: 0.04%
+        Bg TOTAL: 30% (18MB-18MB-19MB/15MB-16MB-16MB over 16)
+        (Cached): 30% (18MB-18MB-19MB/15MB-16MB-16MB over 16)
+  * com.google.android.gms:car / u0a18 / v10298440:
+           TOTAL: 0.04%
+          Imp Bg: 0.02%
+         Service: 0.02%
+        Bg TOTAL: 6.3% (14MB-15MB-15MB/11MB-12MB-13MB over 4)
+        (Cached): 6.3% (14MB-15MB-15MB/11MB-12MB-13MB over 4)
+  * com.samsung.faceservice / 5004 / v1:
+           TOTAL: 0.04%
+         Service: 0.01%
+      Service Rs: 0.03%
+        Bg TOTAL: 0.82% (24MB-24MB-24MB/23MB-23MB-24MB over 2)
+        (Cached): 0.82% (24MB-24MB-24MB/23MB-23MB-24MB over 2)
+  * com.google.android.gms.ui / u0a18 / v10298440:
+           TOTAL: 0.04%
+             Top: 0.01%
+         Service: 0.03%
+        Bg TOTAL: 7.9% (13MB-18MB-23MB/11MB-15MB-19MB over 2)
+        (Cached): 7.9% (13MB-18MB-23MB/11MB-15MB-19MB over 2)
+  * com.sec.android.daemonapp / u0a217 / v125101001:
+           TOTAL: 0.04%
+         Service: 0.01%
+        Receiver: 0.03%
+        Bg TOTAL: 98% (4.3MB-6.4MB-7.6MB/3.7MB-5.8MB-7.0MB over 60)
+        (Cached): 98% (4.3MB-6.4MB-7.6MB/3.7MB-5.8MB-7.0MB over 60)
+  * com.sec.spp.push:RemoteDlcProcess / u0a44 / v160100000:
+           TOTAL: 0.04%
+         Service: 0.03%
+        Receiver: 0.01%
+        Bg TOTAL: 66% (2.8MB-4.0MB-5.0MB/2.1MB-3.4MB-4.3MB over 82)
+        (Cached): 66% (2.8MB-4.0MB-5.0MB/2.1MB-3.4MB-4.3MB over 82)
+  * com.sec.android.app.samsungapps / u0a16 / v420405330:
+           TOTAL: 0.04%
+         Service: 0.02%
+        Receiver: 0.01%
+        Bg TOTAL: 57% (9.9MB-11MB-14MB/9.4MB-11MB-13MB over 35)
+        (Cached): 57% (9.9MB-11MB-14MB/9.4MB-11MB-13MB over 35)
+  * com.ubercab / u0a209 / v33704:
+           TOTAL: 0.03%
+        Receiver: 0.03%
+        Bg TOTAL: 6.3% (62MB-63MB-64MB/58MB-59MB-60MB over 5)
+        (Cached): 6.3% (62MB-63MB-64MB/58MB-59MB-60MB over 5)
+  * com.samsung.ipservice / 5004 / v1:
+           TOTAL: 0.03%
+         Service: 0.01%
+      Service Rs: 0.02%
+        Bg TOTAL: 0.83% (2.9MB-2.9MB-2.9MB/2.5MB-2.5MB-2.6MB over 2)
+        (Cached): 0.83% (2.9MB-2.9MB-2.9MB/2.5MB-2.5MB-2.6MB over 2)
+  * com.facebook.appmanager / u0a128 / v50573461:
+           TOTAL: 0.03%
+          Imp Bg: 0.01%
+         Service: 0.02%
+        Bg TOTAL: 33% (7.7MB-11MB-17MB/5.7MB-9.3MB-15MB over 25)
+        (Cached): 33% (7.7MB-11MB-17MB/5.7MB-9.3MB-15MB over 25)
+  * com.att.mobiletransfer / u0a31 / v1612142138:
+           TOTAL: 0.03%
+        Receiver: 0.03%
+        Bg TOTAL: 13% (17MB-18MB-19MB/16MB-17MB-18MB over 14)
+        (Cached): 13% (17MB-18MB-19MB/16MB-17MB-18MB over 14)
+  * com.google.android.apps.maps / u0a158 / v947300224:
+           TOTAL: 0.03%
+        Receiver: 0.02%
+        Bg TOTAL: 25% (40MB-44MB-47MB/38MB-41MB-44MB over 10)
+        (Cached): 25% (40MB-44MB-47MB/38MB-41MB-44MB over 10)
+  * com.samsung.android.snote:quicknote / u0a180 / v520125000:
+           TOTAL: 0.03%
+        Receiver: 0.03%
+        Bg TOTAL: 86% (4.5MB-5.8MB-6.3MB/1.2MB-2.7MB-3.0MB over 49)
+        (Cached): 86% (4.5MB-5.8MB-6.3MB/1.2MB-2.7MB-3.0MB over 49)
+  * com.enhance.gameservice / u0a140 / v107000000:
+           TOTAL: 0.03%
+         Service: 0.02%
+        Receiver: 0.01%
+        Bg TOTAL: 48% (2.6MB-3.3MB-6.0MB/2.2MB-2.9MB-5.3MB over 27)
+        (Cached): 48% (2.6MB-3.3MB-6.0MB/2.2MB-2.9MB-5.3MB over 27)
+  * com.samsung.cmh:CMH / 5004 / v203300000:
+           TOTAL: 0.03%
+         Service: 0.03%
+        Bg TOTAL: 0.87% (10MB-11MB-11MB/9.8MB-10MB-10MB over 2)
+        (Cached): 0.87% (10MB-11MB-11MB/9.8MB-10MB-10MB over 2)
+  * com.android.incallui / 1001 / v116301000:
+           TOTAL: 0.03%
+          Imp Fg: 0.02%
+        Bg TOTAL: 7.5% (8.9MB-8.9MB-9.0MB/8.1MB-8.2MB-8.2MB over 6)
+        (Cached): 7.5% (8.9MB-8.9MB-9.0MB/8.1MB-8.2MB-8.2MB over 6)
+  * com.policydm / 1000 / v417800000:
+           TOTAL: 0.02%
+         Service: 0.01%
+        Receiver: 0.02%
+        Bg TOTAL: 8.3% (6.2MB-6.3MB-6.4MB/5.6MB-5.7MB-5.9MB over 8)
+        (Cached): 8.3% (6.2MB-6.3MB-6.4MB/5.6MB-5.7MB-5.9MB over 8)
+  * com.android.chrome:sandboxed_process5 / u0i11 / v292408701:
+           TOTAL: 0.02%
+             Top: 0.02%
+        Bg TOTAL: 0.05%
+        (Cached): 0.05%
+  * com.sec.android.app.sbrowser / u0a178 / v403018042:
+           TOTAL: 0.02%
+        Receiver: 0.02%
+        Bg TOTAL: 82% (6.1MB-7.8MB-8.4MB/4.4MB-6.1MB-6.5MB over 47)
+        (Cached): 82% (6.1MB-7.8MB-8.4MB/4.4MB-6.1MB-6.5MB over 47)
+  * com.android.calendar / u0a185 / v316602000:
+           TOTAL: 0.02%
+         Service: 0.01%
+        Receiver: 0.02%
+        Bg TOTAL: 43% (7.5MB-7.8MB-8.1MB/6.9MB-7.1MB-7.5MB over 28)
+        (Cached): 43% (7.5MB-7.8MB-8.1MB/6.9MB-7.1MB-7.5MB over 28)
+  * com.tekoia.sure.activities / u0a91 / v82:
+           TOTAL: 0.02%
+        Receiver: 0.02%
+        Bg TOTAL: 11% (30MB-30MB-31MB/27MB-27MB-28MB over 8)
+        (Cached): 11% (30MB-30MB-31MB/27MB-27MB-28MB over 8)
+  * com.sec.android.provider.badge / u0a105 / v101200001:
+           TOTAL: 0.02%
+             Top: 0.01%
+         Service: 0.01%
+        Bg TOTAL: 69% (2.2MB-2.8MB-3.0MB/1.8MB-2.4MB-2.7MB over 48)
+          (Home): 0.01%
+        (Cached): 69% (2.2MB-2.8MB-3.0MB/1.8MB-2.4MB-2.7MB over 48)
+  * com.sec.android.sidesync30 / u0a198 / v504:
+           TOTAL: 0.02%
+        Receiver: 0.02%
+        Bg TOTAL: 39% (6.8MB-8.2MB-9.0MB/4.8MB-6.3MB-6.9MB over 22)
+        (Cached): 39% (6.8MB-8.2MB-9.0MB/4.8MB-6.3MB-6.9MB over 22)
+  * com.cequint.ecid:com.ims.process / u0a9 / v545660:
+           TOTAL: 0.02%
+         Service: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 23% (3.9MB-4.5MB-7.2MB/3.0MB-4.0MB-6.5MB over 17)
+        (Cached): 23% (3.9MB-4.5MB-7.2MB/3.0MB-4.0MB-6.5MB over 17)
+  * com.samsung.android.SettingsReceiver / 1000 / v23:
+           TOTAL: 0.02%
+        Receiver: 0.02%
+        Bg TOTAL: 96% (1.8MB-2.8MB-3.8MB/1.2MB-2.4MB-3.3MB over 55)
+        (Cached): 96% (1.8MB-2.8MB-3.8MB/1.2MB-2.4MB-3.3MB over 55)
+  * com.freerange360.mpp.businessinsider / u0a293 / v120170218:
+           TOTAL: 0.02%
+         Service: 0.01%
+        Bg TOTAL: 2.9% (19MB-19MB-19MB/18MB-18MB-18MB over 1)
+        (Cached): 2.9% (19MB-19MB-19MB/18MB-18MB-18MB over 1)
+  * com.google.process.gapps / u0a308 / v23:
+           TOTAL: 0.02%
+          Imp Bg: 0.02%
+        Bg TOTAL: 8.3% (5.3MB-5.6MB-5.8MB/4.5MB-4.8MB-5.0MB over 2)
+        (Cached): 8.3% (5.3MB-5.6MB-5.8MB/4.5MB-4.8MB-5.0MB over 2)
+  * com.sec.android.app.chromecustomizations / u0a113 / v100200000:
+           TOTAL: 0.02%
+             Top: 0.02%
+        Bg TOTAL: 15% (2.4MB-2.5MB-2.7MB/2.0MB-2.1MB-2.3MB over 12)
+        (Cached): 15% (2.4MB-2.5MB-2.7MB/2.0MB-2.1MB-2.3MB over 12)
+  * com.google.android.apps.walletnfcrel / u0a216 / v930056254:
+           TOTAL: 0.01%
+         Service: 0.01%
+        Bg TOTAL: 0.37% (22MB-22MB-22MB/20MB-20MB-20MB over 1)
+        (Cached): 0.37% (22MB-22MB-22MB/20MB-20MB-20MB over 1)
+  * com.google.android.apps.docs / u0a124 / v70631440:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 7.3% (26MB-27MB-27MB/25MB-25MB-25MB over 6)
+        (Cached): 7.3% (26MB-27MB-27MB/25MB-25MB-25MB over 6)
+  * com.google.android.syncadapters.calendar / u0a143 / v2015080710:
+           TOTAL: 0.01%
+          Imp Bg: 0.01%
+        Bg TOTAL: 7.0% (13MB-13MB-13MB/11MB-11MB-11MB over 1)
+        (Cached): 7.0% (13MB-13MB-13MB/11MB-11MB-11MB over 1)
+  * com.android.settings / 1000 / v23:
+           TOTAL: 0.01%
+             Top: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 8.6% (3.5MB-5.3MB-6.3MB/2.7MB-4.5MB-5.5MB over 6)
+        (Cached): 8.6% (3.5MB-5.3MB-6.3MB/2.7MB-4.5MB-5.5MB over 6)
+  * com.android.contacts / u0a26 / v217202110:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 100% (1.5MB-1.8MB-2.4MB/876KB-1.1MB-1.7MB over 55)
+        (Cached): 100% (1.5MB-1.8MB-2.4MB/876KB-1.1MB-1.7MB over 55)
+  * com.samsung.android.themestore / u0a73 / v10330:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 20% (4.9MB-5.0MB-5.2MB/4.4MB-4.6MB-4.7MB over 13)
+        (Cached): 20% (4.9MB-5.0MB-5.2MB/4.4MB-4.6MB-4.7MB over 13)
+  * com.sec.android.app.billing / u0a46 / v410000006:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 23% (4.0MB-4.4MB-4.8MB/3.6MB-4.0MB-4.5MB over 22)
+        (Cached): 23% (4.0MB-4.4MB-4.8MB/3.6MB-4.0MB-4.5MB over 22)
+  * com.google.android.partnersetup / u0a21 / v23:
+           TOTAL: 0.01%
+             Top: 0.01%
+        Bg TOTAL: 16% (3.0MB-3.1MB-3.3MB/2.6MB-2.7MB-2.9MB over 12)
+        (Cached): 16% (3.0MB-3.1MB-3.3MB/2.6MB-2.7MB-2.9MB over 12)
+  * com.sec.android.diagmonagent / 1000 / v411300100:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 7.3% (3.5MB-3.6MB-3.8MB/3.1MB-3.2MB-3.4MB over 6)
+        (Cached): 7.3% (3.5MB-3.6MB-3.8MB/3.1MB-3.2MB-3.4MB over 6)
+  * com.ubercab:processor / u0a209 / v33704:
+           TOTAL: 0.01%
+         Service: 0.01%
+  * com.samsung.storyservice / 5004 / v1:
+           TOTAL: 0.01%
+         Service: 0.01%
+        Bg TOTAL: 0.86% (4.4MB-4.4MB-4.5MB/4.0MB-4.0MB-4.1MB over 2)
+        (Cached): 0.86% (4.4MB-4.4MB-4.5MB/4.0MB-4.0MB-4.1MB over 2)
+  * com.yahoo.mobile.client.android.mail.att:com.yahoo.snp.service / u0a157 / v1315850:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 25% (7.2MB-7.4MB-7.5MB/6.8MB-6.9MB-7.1MB over 13)
+        (Cached): 25% (7.2MB-7.4MB-7.5MB/6.8MB-6.9MB-7.1MB over 13)
+  * com.google.android.videos / u0a213 / v32313002:
+           TOTAL: 0.01%
+         Service: 0.01%
+        Bg TOTAL: 0.16%
+        (Cached): 0.16%
+  * com.samsung.hs20provider / u0a150 / v1:
+           TOTAL: 0.01%
+          Imp Fg: 0.01%
+        Bg TOTAL: 0.12%
+        (Cached): 0.12%
+  * com.sec.android.app.soundalive / u0a69 / v315300810:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 51% (2.5MB-2.6MB-2.8MB/2.1MB-2.3MB-2.4MB over 26)
+        (Cached): 51% (2.5MB-2.6MB-2.8MB/2.1MB-2.3MB-2.4MB over 26)
+  * com.samsung.android.sm.policy / u0a306 / v100700000:
+           TOTAL: 0.01%
+        Bg TOTAL: 20% (2.6MB-2.8MB-2.9MB/2.2MB-2.4MB-2.5MB over 11)
+        (Cached): 20% (2.6MB-2.8MB-2.9MB/2.2MB-2.4MB-2.5MB over 11)
+  * com.instagram.android:browser / u0a129 / v51631982:
+           TOTAL: 0.01%
+         Service: 0.01%
+        Bg TOTAL: 5.8% (8.2MB-8.7MB-11MB/3.6MB-4.4MB-7.8MB over 6)
+        (Cached): 5.8% (8.2MB-8.7MB-11MB/3.6MB-4.4MB-7.8MB over 6)
+  * com.samsung.android.snote:sync / u0a180 / v520125000:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 12% (4.9MB-6.4MB-7.3MB/2.5MB-4.2MB-5.6MB over 7)
+        (Cached): 12% (4.9MB-6.4MB-7.3MB/2.5MB-4.2MB-5.6MB over 7)
+  * com.samsung.android.writingbuddyservice / u0a219 / v23:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 17% (3.5MB-3.8MB-3.9MB/2.4MB-2.4MB-2.5MB over 9)
+        (Cached): 17% (3.5MB-3.8MB-3.9MB/2.4MB-2.4MB-2.5MB over 9)
+  * com.sec.app.TransmitPowerService / u0a75 / v1:
+           TOTAL: 0.01%
+        Bg TOTAL: 5.6% (2.4MB-2.5MB-2.6MB/2.0MB-2.1MB-2.2MB over 7)
+        (Cached): 5.6% (2.4MB-2.5MB-2.6MB/2.0MB-2.1MB-2.2MB over 7)
+  * com.samsung.android.app.pinboard:sync / u0a49 / v1600900200:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 9.7% (4.6MB-4.7MB-4.8MB/3.0MB-3.1MB-3.2MB over 5)
+        (Cached): 9.7% (4.6MB-4.7MB-4.8MB/3.0MB-3.1MB-3.2MB over 5)
+  * com.sec.knox.switcher / 1000 / v4001002:
+        Bg TOTAL: 13% (2.8MB-2.8MB-2.9MB/2.4MB-2.5MB-2.6MB over 9)
+        (Cached): 13% (2.8MB-2.8MB-2.9MB/2.4MB-2.5MB-2.6MB over 9)
+  * com.samsung.svoice.sync / u0a45 / v171801038:
+        Bg TOTAL: 0.15%
+        (Cached): 0.15%
+  * com.samsung.android.app.FileShareServer / 5005 / v19:
+        Bg TOTAL: 15% (3.1MB-3.3MB-3.6MB/1.8MB-1.9MB-2.1MB over 12)
+        (Cached): 15% (3.1MB-3.3MB-3.6MB/1.8MB-1.9MB-2.1MB over 12)
+  * com.sec.tetheringprovision / u0a208 / v3:
+        Bg TOTAL: 4.4% (2.4MB-2.5MB-2.5MB/2.1MB-2.1MB-2.2MB over 4)
+        (Cached): 4.4% (2.4MB-2.5MB-2.5MB/2.1MB-2.1MB-2.2MB over 4)
+  * com.samsung.android.spdfnote / u0a181 / v229100100:
+        Bg TOTAL: 0.01%
+      (Last Act): 0.01%
+  * com.google.android.apps.photos:CameraShortcut / u0a170 / v826190:
+        Bg TOTAL: 8.3% (10.0MB-10MB-10MB/6.0MB-6.1MB-6.1MB over 4)
+        (Cached): 8.3% (10.0MB-10MB-10MB/6.0MB-6.1MB-6.1MB over 4)
+  * com.sec.enterprise.knox.cloudmdm.smdms / u0a210 / v37:
+        Bg TOTAL: 0.21%
+        (Cached): 0.21%
+  * com.samsung.android.app.watchmanager:contentprovider / u0a17 / v2116101261:
+        Bg TOTAL: 9.8% (3.4MB-3.5MB-3.6MB/3.0MB-3.1MB-3.1MB over 4)
+        (Cached): 9.8% (3.4MB-3.5MB-3.6MB/3.0MB-3.1MB-3.1MB over 4)
+  * com.android.chrome:sandboxed_process4 / u0i10 / v292408701:
+        Bg TOTAL: 0.05%
+        (Cached): 0.05%
+  * com.nianticlabs.pokemongo / u0a43 / v2017030300:
+        Bg TOTAL: 28% (4.3MB-4.6MB-4.9MB/3.1MB-3.2MB-3.3MB over 12)
+        (Cached): 28% (4.3MB-4.6MB-4.9MB/3.1MB-3.2MB-3.3MB over 12)
+  * com.sec.android.app.popupuireceiver / 1000 / v1:
+        Bg TOTAL: 7.2% (2.8MB-2.9MB-2.9MB/2.4MB-2.5MB-2.6MB over 5)
+        (Cached): 7.2% (2.8MB-2.9MB-2.9MB/2.4MB-2.5MB-2.6MB over 5)
+  * com.mobitv.client.tv / u0a85 / v20150921:
+        Bg TOTAL: 23% (3.3MB-3.5MB-3.9MB/2.1MB-2.2MB-2.3MB over 13)
+        (Cached): 23% (3.3MB-3.5MB-3.9MB/2.1MB-2.2MB-2.3MB over 13)
+  * flipboard.boxer.app / u0a137 / v428:
+        Bg TOTAL: 11% (24MB-24MB-25MB/17MB-18MB-20MB over 4)
+        (Cached): 11% (24MB-24MB-25MB/17MB-18MB-20MB over 4)
+  * com.samsung.android.app.watchmanagerstub / u0a141 / v111512310:
+        Bg TOTAL: 14% (2.4MB-2.6MB-2.7MB/2.1MB-2.3MB-2.4MB over 9)
+        (Cached): 14% (2.4MB-2.6MB-2.7MB/2.1MB-2.3MB-2.4MB over 9)
+  * com.samsung.klmsagent / u0a25 / v2:
+        Bg TOTAL: 100% (627KB-1.1MB-1.9MB/240KB-774KB-1.6MB over 62)
+        (Cached): 100% (627KB-1.1MB-1.9MB/240KB-774KB-1.6MB over 62)
+  * com.samsung.android.provider.shootingmodeprovider / u0a197 / v1:
+        Bg TOTAL: 1.3%
+        (Cached): 1.3%
+  * com.samsung.android.intelligenceservice2 / 5010 / v240802000:
+        Bg TOTAL: 0.21%
+        (Cached): 0.21%
+  * com.sec.android.widgetapp.samsungapps / u0a139 / v105052:
+        Bg TOTAL: 11% (2.6MB-2.7MB-2.7MB/2.3MB-2.4MB-2.4MB over 9)
+        (Cached): 11% (2.6MB-2.7MB-2.7MB/2.3MB-2.4MB-2.4MB over 9)
+  * com.yahoo.mobile.client.android.mail.att / u0a157 / v1315850:
+        Bg TOTAL: 1.6% (14MB-14MB-14MB/13MB-13MB-13MB over 1)
+        (Cached): 1.6% (14MB-14MB-14MB/13MB-13MB-13MB over 1)
+  * com.android.chrome:sandboxed_process4 / u0i17 / v292408701:
+        Bg TOTAL: 0.03%
+        (Cached): 0.03%
+  * com.samsung.android.bbc.bbcagent / 1000 / v2:
+        Bg TOTAL: 1.9%
+        (Cached): 1.9%
+  * com.samsung.android.app.assistantmenu / 1000 / v158800111:
+        Bg TOTAL: 11% (3.3MB-3.4MB-3.5MB/2.9MB-3.0MB-3.2MB over 12)
+        (Cached): 11% (3.3MB-3.4MB-3.5MB/2.9MB-3.0MB-3.2MB over 12)
+  * com.att.myWireless / u0a87 / v61:
+        Bg TOTAL: 6.1% (7.8MB-7.9MB-8.1MB/4.4MB-4.4MB-4.4MB over 3)
+        (Cached): 6.1% (7.8MB-7.9MB-8.1MB/4.4MB-4.4MB-4.4MB over 3)
+  * com.sec.android.app.music:provider / u0a41 / v1619116800:
+        Bg TOTAL: 0.69% (5.4MB-5.4MB-5.4MB/3.7MB-3.7MB-3.7MB over 1)
+        (Cached): 0.69% (5.4MB-5.4MB-5.4MB/3.7MB-3.7MB-3.7MB over 1)
+  * com.samsung.android.asksmanager / u0a56 / v100800000:
+        Bg TOTAL: 0.41%
+        (Cached): 0.41%
+  * com.android.chrome:sandboxed_process6 / u0i19 / v292408701:
+        Bg TOTAL: 0.13%
+        (Cached): 0.13%
+  * com.sec.att.usagemanager3 / u0a211 / v1:
+        Bg TOTAL: 5.2% (2.6MB-2.7MB-2.8MB/2.2MB-2.3MB-2.5MB over 4)
+        (Cached): 5.2% (2.6MB-2.7MB-2.8MB/2.2MB-2.3MB-2.5MB over 4)
+  * com.samsung.android.app.filterinstaller / 1000 / v200000000:
+        Bg TOTAL: 2.2% (2.3MB-2.3MB-2.3MB/2.0MB-2.0MB-2.0MB over 1)
+        (Cached): 2.2% (2.3MB-2.3MB-2.3MB/2.0MB-2.0MB-2.0MB over 1)
+  * com.samsung.android.securitylogagent / 1000 / v435200100:
+        Bg TOTAL: 14% (2.5MB-2.7MB-2.8MB/2.2MB-2.3MB-2.4MB over 5)
+        (Cached): 14% (2.5MB-2.7MB-2.8MB/2.2MB-2.3MB-2.4MB over 5)
+  * com.sec.android.iap / u0a24 / v306000:
+        Bg TOTAL: 13% (3.0MB-3.1MB-3.3MB/2.6MB-2.7MB-2.9MB over 13)
+        (Cached): 13% (3.0MB-3.1MB-3.3MB/2.6MB-2.7MB-2.9MB over 13)
+  * com.android.chrome:sandboxed_process5 / u0i18 / v292408701:
+        Bg TOTAL: 0.03%
+        (Cached): 0.03%
+  * com.samsung.android.app.FileShareClient / 5005 / v19:
+        Bg TOTAL: 1.5% (3.6MB-3.6MB-3.6MB/2.3MB-2.3MB-2.3MB over 1)
+        (Cached): 1.5% (3.6MB-3.6MB-3.6MB/2.3MB-2.3MB-2.3MB over 1)
+  * com.android.keychain / 1000 / v23:
+        Bg TOTAL: 0.21%
+        (Cached): 0.21%
+  * com.android.chrome:sandboxed_process6 / u0i12 / v292408701:
+        Bg TOTAL: 5.8% (11MB-11MB-11MB/7.3MB-7.3MB-7.3MB over 1)
+        (Cached): 5.8% (11MB-11MB-11MB/7.3MB-7.3MB-7.3MB over 1)
+  * com.facebook.katana:browser / u0a130 / v51686781:
+        Bg TOTAL: 1.2% (9.2MB-9.2MB-9.2MB/4.5MB-4.5MB-4.5MB over 1)
+        (Cached): 1.2% (9.2MB-9.2MB-9.2MB/4.5MB-4.5MB-4.5MB over 1)
+  * com.samsung.knox.rcp.components / u0a173 / v4001020:
+        Bg TOTAL: 11% (2.5MB-2.6MB-2.7MB/2.2MB-2.3MB-2.4MB over 12)
+        (Cached): 11% (2.5MB-2.6MB-2.7MB/2.2MB-2.3MB-2.4MB over 12)
+  * com.sec.android.app.sns3 / u0a42 / v201700000:
+        Bg TOTAL: 1.6% (11MB-11MB-11MB/10MB-10MB-10MB over 1)
+        (Cached): 1.6% (11MB-11MB-11MB/10MB-10MB-10MB over 1)
+  * com.facebook.system / u0a12 / v50573453:
+        Bg TOTAL: 13% (3.2MB-3.3MB-3.5MB/2.9MB-3.0MB-3.1MB over 7)
+        (Cached): 13% (3.2MB-3.3MB-3.5MB/2.9MB-3.0MB-3.1MB over 7)
+  * com.samsung.android.app.watchmanager / u0a17 / v2116101261:
+        Bg TOTAL: 0.16%
+        (Cached): 0.16%
+  * com.samsung.android.app.mirrorlink / 1000 / v105300007:
+        Bg TOTAL: 3.5% (4.1MB-4.1MB-4.1MB/2.6MB-2.6MB-2.6MB over 1)
+        (Cached): 3.5% (4.1MB-4.1MB-4.1MB/2.6MB-2.6MB-2.6MB over 1)
+  * com.samsung.android.qconnect / u0a305 / v40:
+        Bg TOTAL: 8.7% (3.0MB-3.1MB-3.4MB/2.6MB-2.8MB-3.0MB over 10)
+        (Cached): 8.7% (3.0MB-3.1MB-3.4MB/2.6MB-2.8MB-3.0MB over 10)
+  * com.sec.android.sidesync.source / u0a199 / v121:
+        Bg TOTAL: 0.21%
+        (Cached): 0.21%
+  * com.wsomacp / u0a33 / v513000110:
+        Bg TOTAL: 7.5% (4.3MB-4.3MB-4.4MB/3.9MB-3.9MB-3.9MB over 6)
+        (Cached): 7.5% (4.3MB-4.3MB-4.4MB/3.9MB-3.9MB-3.9MB over 6)
+  * com.android.providers.partnerbookmarks / u0a168 / v23:
+        Bg TOTAL: 13% (2.6MB-2.7MB-2.9MB/2.2MB-2.3MB-2.5MB over 7)
+        (Cached): 13% (2.6MB-2.7MB-2.9MB/2.2MB-2.3MB-2.5MB over 7)
+  * com.android.chrome:sandboxed_process1 / u0i14 / v292408701:
+        Bg TOTAL: 0.12%
+        (Cached): 0.12%
+  * com.android.chrome:sandboxed_process0 / u0a112 / v292408701:
+  * com.android.chrome:sandboxed_process1 / u0i7 / v292408701:
+        Bg TOTAL: 0.06%
+        (Cached): 0.06%
+  * com.android.chrome:sandboxed_process2 / u0i15 / v292408701:
+        Bg TOTAL: 0.09%
+        (Cached): 0.09%
+  * com.wssnps / 1000 / v710900000:
+        Bg TOTAL: 0.99% (2.8MB-2.9MB-3.0MB/2.5MB-2.6MB-2.7MB over 2)
+        (Cached): 0.99% (2.8MB-2.9MB-3.0MB/2.5MB-2.6MB-2.7MB over 2)
+  * net.aetherpal.device / u0a38 / v2041103235:
+        Bg TOTAL: 2.4% (4.7MB-4.7MB-4.7MB/4.1MB-4.1MB-4.1MB over 1)
+        (Cached): 2.4% (4.7MB-4.7MB-4.7MB/4.1MB-4.1MB-4.1MB over 1)
+  * com.sec.android.Kies / 1000 / v1020:
+        Bg TOTAL: 4.7% (2.3MB-2.4MB-2.4MB/2.0MB-2.0MB-2.1MB over 3)
+        (Cached): 4.7% (2.3MB-2.4MB-2.4MB/2.0MB-2.0MB-2.1MB over 3)
+  * com.android.chrome:sandboxed_process2 / u0i8 / v292408701:
+  * com.mobeam.barcodeService / 1000 / v24:
+        Bg TOTAL: 2.8% (2.9MB-2.9MB-2.9MB/2.5MB-2.5MB-2.5MB over 1)
+        (Cached): 2.8% (2.9MB-2.9MB-2.9MB/2.5MB-2.5MB-2.5MB over 1)
+  * com.android.chrome:privileged_process1 / u0a112 / v292408701:
+        Bg TOTAL: 0.14%
+        (Cached): 0.14%
+  * com.android.chrome:sandboxed_process1 / u0a112 / v292408701:
+  * com.sec.android.app.music:service / u0a41 / v1619116800:
+        Bg TOTAL: 0.69% (5.7MB-5.7MB-5.7MB/4.1MB-4.1MB-4.1MB over 1)
+        (Cached): 0.69% (5.7MB-5.7MB-5.7MB/4.1MB-4.1MB-4.1MB over 1)
+  * com.sec.hearingadjust / u0a23 / v205900700:
+        Bg TOTAL: 0.45% (2.5MB-2.6MB-2.6MB/2.2MB-2.2MB-2.3MB over 2)
+        (Cached): 0.45% (2.5MB-2.6MB-2.6MB/2.2MB-2.2MB-2.3MB over 2)
+  * com.sec.android.app.camera.plb / u0a155 / v105401200:
+        Bg TOTAL: 5.2% (3.8MB-3.8MB-3.8MB/3.3MB-3.3MB-3.3MB over 1)
+        (Cached): 5.2% (3.8MB-3.8MB-3.8MB/3.3MB-3.3MB-3.3MB over 1)
+  * com.android.chrome:sandboxed_process2 / u0a112 / v292408701:
+  * com.android.chrome:sandboxed_process0 / u0i13 / v292408701:
+  * com.android.chrome:sandboxed_process5 / u0a112 / v292408701:
+  * com.android.chrome:sandboxed_process4 / u0a112 / v292408701:
+  * com.android.chrome:sandboxed_process6 / u0a112 / v292408701:
+  * com.android.chrome:sandboxed_process3 / u0a112 / v292408701:
+  * com.sec.android.service.sm / 1000 / v38:
+        Bg TOTAL: 100% (615KB-844KB-1.4MB/228KB-452KB-1.0MB over 55)
+        (Cached): 100% (615KB-844KB-1.4MB/228KB-452KB-1.0MB over 55)
+  * com.android.managedprovisioning / u0a29 / v23:
+        Bg TOTAL: 100% (577KB-812KB-1.4MB/228KB-461KB-1.0MB over 55)
+        (Cached): 100% (577KB-812KB-1.4MB/228KB-461KB-1.0MB over 55)
+
+Run time Stats:
+  SOff/Norm: +4h54m48s357ms
+  SOn /Norm: +2h17m40s182ms
+      TOTAL: +7h12m28s539ms
+
+Memory usage:
+  Kernel : 491MB (196 samples)
+  Native : 52MB (196 samples)
+  Persist: 495MB (918 samples)
+  Top    : 219MB (1412 samples)
+  ImpFg  : 126MB (1869 samples)
+  ImpBg  : 24MB (1598 samples)
+  Service: 391MB (4673 samples)
+  Receivr: 165KB (4414 samples)
+  Home   : 71MB (176 samples)
+  LastAct: 116KB (573 samples)
+  CchAct : 779 (41 samples)
+  CchCAct: 383KB (52 samples)
+  CchEmty: 329MB (2590 samples)
+  Cached : 872MB (196 samples)
+  Free   : 181MB (196 samples)
+  TOTAL  : 3.2GB
+  ServRst: 224KB (2498 samples)
+
+          Start time: 2017-03-12 13:44:08
+  Total elapsed time: +1d2h21m15s511ms (partial) libart.so
+
+AGGREGATED OVER LAST 3 HOURS:
+  * com.matchboxmobile.wisp / u0a215 / v83:
+           TOTAL: 100% (1.3MB-1.5MB-1.7MB/0.97MB-1.1MB-1.4MB over 20)
+         Service: 100% (1.3MB-1.5MB-1.7MB/0.97MB-1.1MB-1.4MB over 20)
+  * com.sec.imsservice:ConfigService / 1000 / v1:
+           TOTAL: 100% (857KB-2.2MB-3.8MB/324KB-1.6MB-3.2MB over 20)
+      Persistent: 100% (857KB-2.2MB-3.8MB/324KB-1.6MB-3.2MB over 20)
+  * com.google.android.gms / u0a18 / v10298440:
+           TOTAL: 100% (62MB-69MB-84MB/49MB-58MB-74MB over 34)
+             Top: 2.0% (66MB-66MB-66MB/52MB-53MB-53MB over 2)
+          Imp Fg: 25% (64MB-70MB-80MB/50MB-56MB-65MB over 10)
+          Imp Bg: 0.08%
+         Service: 73% (62MB-70MB-84MB/49MB-60MB-74MB over 22)
+  * com.samsung.android.providers.context / u0a296 / v8:
+           TOTAL: 100% (6.9MB-7.5MB-8.2MB/5.3MB-5.9MB-6.6MB over 20)
+      Persistent: 100% (6.9MB-7.5MB-8.2MB/5.3MB-5.9MB-6.6MB over 20)
+  * com.samsung.android.themecenter / 1000 / v2010000:
+           TOTAL: 100% (783KB-1.2MB-1.6MB/300KB-785KB-1.1MB over 21)
+          Imp Fg: 100% (783KB-1.2MB-1.6MB/300KB-785KB-1.1MB over 21)
+  * com.android.systemui / u0a70 / v23:
+           TOTAL: 100% (121MB-188MB-242MB/116MB-183MB-237MB over 20)
+      Persistent: 100% (121MB-188MB-242MB/116MB-183MB-237MB over 20)
+  * diagandroid.iqd / 1000 / v23:
+           TOTAL: 100% (6.4MB-8.3MB-10MB/5.8MB-7.7MB-9.7MB over 20)
+      Persistent: 100% (6.4MB-8.3MB-10MB/5.8MB-7.7MB-9.7MB over 20)
+  * com.android.phone / 1001 / v1:
+           TOTAL: 100% (27MB-37MB-40MB/23MB-33MB-37MB over 20)
+      Persistent: 100% (27MB-37MB-40MB/23MB-33MB-37MB over 20)
+  * com.google.android.googlequicksearchbox:interactor / u0a77 / v300730590:
+           TOTAL: 100% (1.0MB-1.1MB-1.1MB/292KB-362KB-420KB over 21)
+          Imp Fg: 100% (1.0MB-1.1MB-1.1MB/292KB-362KB-420KB over 21)
+  * com.sec.spp.push / u0a44 / v160100000:
+           TOTAL: 100% (7.6MB-8.5MB-9.1MB/6.8MB-7.7MB-8.4MB over 20)
+         Service: 100% (7.6MB-8.5MB-9.1MB/6.8MB-7.7MB-8.4MB over 20)
+  * com.facebook.katana:videoplayer / u0a130 / v51686781:
+           TOTAL: 100% (3.9MB-5.5MB-7.7MB/712KB-2.1MB-3.9MB over 17)
+          Imp Bg: 0.03%
+         Service: 100% (3.9MB-5.5MB-7.7MB/712KB-2.1MB-3.9MB over 17)
+  * com.samsung.android.beaconmanager / 5006 / v41:
+           TOTAL: 100% (1.1MB-1.9MB-2.2MB/716KB-1.5MB-1.7MB over 21)
+          Imp Fg: 100% (1.1MB-1.9MB-2.2MB/716KB-1.5MB-1.7MB over 21)
+  * com.sec.android.app.SamsungContentsAgent / u0a190 / v100300000:
+           TOTAL: 100% (622KB-674KB-749KB/304KB-360KB-432KB over 20)
+      Persistent: 100% (622KB-674KB-749KB/304KB-360KB-432KB over 20)
+  * com.sec.android.app.wfdbroker / 1000 / v109301517:
+           TOTAL: 100% (605KB-669KB-768KB/288KB-355KB-424KB over 20)
+      Persistent: 100% (605KB-669KB-768KB/288KB-355KB-424KB over 20)
+  * com.facebook.katana / u0a130 / v51686781:
+           TOTAL: 100% (27MB-47MB-65MB/21MB-41MB-58MB over 15)
+          Imp Bg: 0.01%
+         Service: 100% (27MB-47MB-65MB/21MB-41MB-58MB over 15)
+  * com.samsung.android.qconnect:QcBgService / u0a305 / v40:
+           TOTAL: 100% (2.0MB-2.3MB-2.6MB/1.6MB-1.8MB-2.1MB over 21)
+          Imp Fg: 100% (2.0MB-2.3MB-2.6MB/1.6MB-1.8MB-2.1MB over 21)
+  * com.samsung.ucs.ucspinpad / 1000 / v1:
+           TOTAL: 100% (629KB-682KB-756KB/292KB-357KB-428KB over 21)
+          Imp Fg: 100% (629KB-682KB-756KB/292KB-357KB-428KB over 21)
+  * com.android.nfc / 1027 / v23:
+           TOTAL: 100% (4.5MB-8.7MB-13MB/3.2MB-7.4MB-11MB over 20)
+      Persistent: 100% (4.5MB-8.7MB-13MB/3.2MB-7.4MB-11MB over 20)
+  * com.google.android.gms.persistent / u0a18 / v10298440:
+           TOTAL: 100% (36MB-39MB-43MB/31MB-34MB-38MB over 46)
+             Top: 42% (36MB-39MB-43MB/31MB-34MB-38MB over 22)
+          Imp Fg: 58% (36MB-39MB-43MB/31MB-34MB-38MB over 24)
+  * com.android.systemui.recents / u0a70 / v23:
+           TOTAL: 100% (15MB-18MB-23MB/11MB-15MB-20MB over 24)
+             Top: 0.20%
+          Imp Fg: 100% (15MB-18MB-23MB/11MB-15MB-20MB over 24)
+  * com.sec.smartcard.manager / u0a203 / v10:
+           TOTAL: 100% (880KB-1.0MB-1.1MB/524KB-685KB-756KB over 21)
+          Imp Fg: 100% (880KB-1.0MB-1.1MB/524KB-685KB-756KB over 21)
+  * com.sec.android.inputmethod / 1000 / v145401010:
+           TOTAL: 100% (8.4MB-12MB-18MB/6.0MB-9.3MB-15MB over 21)
+          Imp Bg: 100% (8.4MB-12MB-18MB/6.0MB-9.3MB-15MB over 21)
+  * com.sec.sve / 1000 / v1:
+           TOTAL: 100% (766KB-833KB-900KB/292KB-349KB-412KB over 20)
+      Persistent: 100% (766KB-833KB-900KB/292KB-349KB-412KB over 20)
+  * com.sec.vsimservice / 1000 / v1:
+           TOTAL: 100% (1.4MB-2.1MB-2.6MB/0.91MB-1.6MB-2.0MB over 20)
+      Persistent: 100% (1.4MB-2.1MB-2.6MB/0.91MB-1.6MB-2.0MB over 20)
+  * com.android.phone / 1000 / v23:
+           TOTAL: 100%
+      Service Rs: 100%
+  * com.sec.vsim.ericssonnsds.webapp / u0a58 / v1:
+           TOTAL: 100% (627KB-676KB-765KB/296KB-365KB-440KB over 20)
+      Persistent: 100% (627KB-676KB-765KB/296KB-365KB-440KB over 20)
+  * com.facebook.orca / u0a231 / v51652255:
+           TOTAL: 100% (20MB-32MB-38MB/15MB-27MB-33MB over 20)
+         Service: 100% (20MB-32MB-38MB/15MB-27MB-33MB over 20)
+  * com.asurion.android.mobilerecovery.att / u0a30 / v1800001203:
+           TOTAL: 100% (2.9MB-4.7MB-7.7MB/1.9MB-3.7MB-6.6MB over 20)
+         Service: 100% (2.9MB-4.7MB-7.7MB/1.9MB-3.7MB-6.6MB over 20)
+  * com.sec.imsservice / 1000 / v1:
+           TOTAL: 100% (10MB-14MB-19MB/9.1MB-13MB-18MB over 20)
+      Persistent: 100% (10MB-14MB-19MB/9.1MB-13MB-18MB over 20)
+  * com.ipsec.service / 1000 / v8:
+           TOTAL: 100% (647KB-685KB-734KB/288KB-349KB-416KB over 21)
+          Imp Fg: 100% (647KB-685KB-734KB/288KB-349KB-416KB over 21)
+  * com.android.bluetooth / 1002 / v23:
+           TOTAL: 100% (5.1MB-7.5MB-8.9MB/3.5MB-5.7MB-6.9MB over 21)
+          Imp Fg: 100% (5.1MB-7.5MB-8.9MB/3.5MB-5.7MB-6.9MB over 21)
+  * com.sec.imsservice:CloudMessageService / 1000 / v1:
+           TOTAL: 100% (1.7MB-2.8MB-4.4MB/1.0MB-2.0MB-3.6MB over 20)
+      Persistent: 100% (1.7MB-2.8MB-4.4MB/1.0MB-2.0MB-3.6MB over 20)
+  * com.samsung.android.fingerprint.service / 1000 / v10100:
+           TOTAL: 100% (733KB-836KB-1.1MB/352KB-477KB-736KB over 21)
+          Imp Fg: 100% (733KB-836KB-1.1MB/352KB-477KB-736KB over 21)
+  * com.sec.phone / 1001 / v1:
+           TOTAL: 100% (796KB-0.99MB-1.5MB/424KB-629KB-1.1MB over 21)
+          Imp Fg: 100% (796KB-0.99MB-1.5MB/424KB-629KB-1.1MB over 21)
+  * com.samsung.ucs.agent.boot / 1000 / v23:
+           TOTAL: 100% (892KB-0.93MB-0.96MB/560KB-615KB-656KB over 21)
+          Imp Fg: 100% (892KB-0.93MB-0.96MB/560KB-615KB-656KB over 21)
+  * system / 1000 / v23:
+           TOTAL: 100% (165MB-201MB-253MB/157MB-193MB-242MB over 20)
+      Persistent: 100% (165MB-201MB-253MB/157MB-193MB-242MB over 20)
+  * org.simalliance.openmobileapi.service:remote / u0a312 / v8:
+           TOTAL: 100% (703KB-1.0MB-1.3MB/304KB-675KB-0.94MB over 21)
+          Imp Fg: 100% (703KB-1.0MB-1.3MB/304KB-675KB-0.94MB over 21)
+  * com.samsung.android.spay / u0a191 / v260000123:
+           TOTAL: 100% (15MB-24MB-37MB/9.3MB-19MB-32MB over 18)
+         Service: 100% (15MB-24MB-37MB/9.3MB-19MB-32MB over 18)
+      Service Rs: 0.06%
+  * com.samsung.android.spayfw / 1200 / v273801000:
+           TOTAL: 100% (3.4MB-7.5MB-12MB/2.7MB-6.8MB-11MB over 20)
+         Service: 100% (3.4MB-7.5MB-12MB/2.7MB-6.8MB-11MB over 20)
+      Service Rs: 0.05%
+  * com.instagram.android:mqtt / u0a129 / v51631982:
+           TOTAL: 100% (5.2MB-7.6MB-11MB/1.4MB-3.9MB-8.3MB over 20)
+         Service: 100% (5.2MB-7.6MB-11MB/1.4MB-3.9MB-8.3MB over 20)
+      Service Rs: 0.13%
+  * com.weather.samsung / u0a242 / v207010063:
+           TOTAL: 100% (36MB-41MB-47MB/34MB-39MB-46MB over 19)
+         Service: 100% (36MB-41MB-47MB/34MB-39MB-46MB over 19)
+      Service Rs: 0.16%
+  * org.speedspot.speedspotspeedtest / u0a328 / v14:
+           TOTAL: 100% (11MB-14MB-16MB/10MB-13MB-15MB over 19)
+         Service: 100% (11MB-14MB-16MB/10MB-13MB-15MB over 19)
+      Service Rs: 0.11%
+  * com.att.android.digitallocker / u0a86 / v1610121430:
+           TOTAL: 100% (11MB-23MB-30MB/9.5MB-22MB-29MB over 22)
+         Service: 100% (11MB-23MB-30MB/9.5MB-22MB-29MB over 22)
+      Service Rs: 0.37%
+  * com.att.myWireless:ZdaService / u0a87 / v61:
+           TOTAL: 100% (7.4MB-11MB-14MB/5.6MB-8.8MB-11MB over 18)
+         Service: 100% (7.4MB-11MB-14MB/5.6MB-8.8MB-11MB over 18)
+      Service Rs: 0.16%
+  * com.samsung.accessory.framework / u0a17 / v322:
+           TOTAL: 100% (3.2MB-4.8MB-6.5MB/2.7MB-4.3MB-6.1MB over 19)
+         Service: 100% (3.2MB-4.8MB-6.5MB/2.7MB-4.3MB-6.1MB over 19)
+      Service Rs: 0.16%
+  * com.samsung.android.email.provider:service / u0a55 / v333803000:
+           TOTAL: 100% (5.9MB-9.2MB-12MB/4.7MB-7.3MB-10MB over 23)
+          Imp Fg: 0.01%
+          Imp Bg: 0.05%
+         Service: 100% (5.9MB-9.2MB-12MB/4.7MB-7.3MB-10MB over 23)
+      Service Rs: 0.04%
+  * com.ws.dm / 1000 / v223700200:
+           TOTAL: 100% (2.7MB-5.8MB-6.5MB/2.1MB-5.2MB-6.0MB over 18)
+         Service: 99% (2.7MB-5.8MB-6.5MB/2.1MB-5.2MB-6.0MB over 18)
+      Service Rs: 0.81%
+  * com.samsung.android.fmm / 1000 / v611400100:
+           TOTAL: 100% (1.4MB-4.4MB-5.4MB/0.96MB-3.9MB-4.9MB over 18)
+         Service: 100% (1.4MB-4.4MB-5.4MB/0.96MB-3.9MB-4.9MB over 18)
+      Service Rs: 0.18%
+  * com.trustonic.tuiservice / 1000 / v1:
+           TOTAL: 100% (0.89MB-2.2MB-2.6MB/580KB-1.9MB-2.2MB over 18)
+         Service: 100% (0.89MB-2.2MB-2.6MB/580KB-1.9MB-2.2MB over 18)
+      Service Rs: 0.18%
+  * com.smlds / u0a300 / v110300000:
+           TOTAL: 100% (1.5MB-4.0MB-5.1MB/1.0MB-3.5MB-4.6MB over 19)
+         Service: 99% (1.5MB-4.0MB-5.1MB/1.0MB-3.5MB-4.6MB over 19)
+      Service Rs: 0.67%
+  * com.sec.android.app.SmartClipService / u0a201 / v104000000:
+           TOTAL: 100% (1.5MB-3.7MB-4.1MB/1.1MB-3.3MB-3.7MB over 21)
+         Service: 100% (1.5MB-3.7MB-4.1MB/1.1MB-3.3MB-3.7MB over 21)
+      Service Rs: 0.05%
+  * com.sec.android.app.shealth:remote / u0a40 / v5600031:
+           TOTAL: 100% (30MB-35MB-42MB/25MB-29MB-40MB over 19)
+             Top: 19% (32MB-34MB-36MB/25MB-27MB-29MB over 2)
+          Imp Fg: 0.72% (35MB-35MB-35MB/27MB-27MB-27MB over 1)
+         Service: 79% (30MB-35MB-42MB/25MB-30MB-40MB over 16)
+      Service Rs: 0.38%
+        Receiver: 0.01%
+        Bg TOTAL: 0.07%
+        (Cached): 0.07%
+  * com.samsung.android.snote:instantMemo / u0a180 / v520125000:
+           TOTAL: 75% (17MB-20MB-23MB/13MB-14MB-18MB over 20)
+         Service: 75% (17MB-20MB-23MB/13MB-14MB-18MB over 20)
+      Service Rs: 0.01%
+        Bg TOTAL: 13% (18MB-20MB-22MB/13MB-14MB-17MB over 13)
+        (Cached): 13% (18MB-20MB-22MB/13MB-14MB-17MB over 13)
+  * android.process.media / u0a53 / v814:
+           TOTAL: 56% (9.3MB-10MB-13MB/8.4MB-9.2MB-12MB over 12)
+          Imp Fg: 0.02%
+          Imp Bg: 0.01%
+         Service: 56% (9.3MB-10MB-13MB/8.4MB-9.2MB-12MB over 12)
+        Bg TOTAL: 44% (6.7MB-9.2MB-13MB/5.7MB-8.2MB-12MB over 7)
+        (Cached): 44% (6.7MB-9.2MB-13MB/5.7MB-8.2MB-12MB over 7)
+  * com.samsung.android.MtpApplication / 1000 / v1:
+           TOTAL: 56% (2.3MB-4.7MB-6.3MB/1.7MB-4.1MB-5.8MB over 12)
+          Imp Fg: 56% (2.3MB-4.7MB-6.3MB/1.7MB-4.1MB-5.8MB over 12)
+        Receiver: 0.01%
+        Bg TOTAL: 1.3% (2.7MB-2.7MB-2.7MB/2.3MB-2.3MB-2.3MB over 1)
+        (Cached): 1.3% (2.7MB-2.7MB-2.7MB/2.3MB-2.3MB-2.3MB over 1)
+  * com.example.android.miwok / u0a95 / v1:
+           TOTAL: 51% (6.2MB-19MB-47MB/5.6MB-18MB-45MB over 16)
+             Top: 4.9% (45MB-46MB-47MB/43MB-44MB-45MB over 5)
+         Service: 46% (6.2MB-6.4MB-6.6MB/5.6MB-5.9MB-6.1MB over 11)
+      Service Rs: 0.07%
+  * com.google.android.googlequicksearchbox:search / u0a77 / v300730590:
+           TOTAL: 42% (30MB-35MB-44MB/25MB-30MB-39MB over 16)
+             Top: 42% (30MB-35MB-44MB/25MB-30MB-39MB over 16)
+        Receiver: 0.01%
+        Bg TOTAL: 58% (28MB-33MB-41MB/22MB-28MB-34MB over 12)
+          (Home): 58% (28MB-33MB-41MB/22MB-28MB-34MB over 12)
+  * com.sec.android.app.launcher / u0a74 / v215801000:
+           TOTAL: 42% (94MB-137MB-179MB/91MB-134MB-175MB over 16)
+             Top: 42% (94MB-137MB-179MB/91MB-134MB-175MB over 16)
+        Bg TOTAL: 58% (72MB-87MB-110MB/69MB-84MB-107MB over 12)
+          (Home): 58% (72MB-87MB-110MB/69MB-84MB-107MB over 12)
+  * com.samsung.voiceserviceplatform / u0a45 / v193502136:
+           TOTAL: 36% (15MB-28MB-32MB/12MB-25MB-30MB over 8)
+         Service: 36% (15MB-28MB-32MB/12MB-25MB-30MB over 8)
+        Receiver: 0.02%
+  * com.samsung.SMT / 1000 / v201503021:
+           TOTAL: 36% (4.2MB-25MB-32MB/3.8MB-25MB-32MB over 8)
+         Service: 36% (4.2MB-25MB-32MB/3.8MB-25MB-32MB over 8)
+  * com.android.vending / u0a35 / v80750800:
+           TOTAL: 30% (12MB-14MB-19MB/11MB-13MB-18MB over 21)
+             Top: 12% (12MB-15MB-19MB/11MB-14MB-18MB over 13)
+          Imp Fg: 17% (12MB-12MB-12MB/11MB-11MB-11MB over 8)
+          Imp Bg: 0.07%
+         Service: 0.45%
+        Receiver: 0.01%
+        Bg TOTAL: 70% (11MB-19MB-26MB/11MB-18MB-24MB over 20)
+      (Last Act): 0.02%
+        (Cached): 70% (11MB-19MB-26MB/11MB-18MB-24MB over 20)
+  * com.pandora.android / u0a229 / v82011:
+           TOTAL: 20% (248MB-316MB-361MB/230MB-297MB-336MB over 14)
+             Top: 3.1% (248MB-318MB-361MB/230MB-298MB-336MB over 7)
+          Imp Fg: 17% (293MB-315MB-335MB/274MB-296MB-316MB over 7)
+         Service: 0.04%
+        Receiver: 0.04%
+        Bg TOTAL: 44% (30MB-30MB-30MB/28MB-28MB-28MB over 14)
+        (Cached): 44% (30MB-30MB-30MB/28MB-28MB-28MB over 14)
+  * com.sec.android.app.shealth / u0a40 / v5600031:
+           TOTAL: 20% (145MB-146MB-146MB/135MB-136MB-136MB over 4)
+             Top: 20% (145MB-146MB-146MB/135MB-136MB-136MB over 4)
+         Service: 0.06%
+        Receiver: 0.03%
+        Bg TOTAL: 60% (15MB-16MB-25MB/9.5MB-10MB-19MB over 21)
+      (Last Act): 0.01%
+        (Cached): 60% (15MB-16MB-25MB/9.5MB-10MB-19MB over 21)
+  * com.sec.android.service.health / u0a22 / v211001:
+           TOTAL: 20% (6.3MB-6.8MB-8.0MB/4.8MB-5.2MB-6.4MB over 4)
+             Top: 20% (6.3MB-6.8MB-8.0MB/4.8MB-5.2MB-6.4MB over 4)
+         Service: 0.01%
+        Bg TOTAL: 13% (4.1MB-4.2MB-4.5MB/2.4MB-2.6MB-2.8MB over 3)
+      (Last Act): 0.01%
+        (Cached): 13% (4.1MB-4.2MB-4.5MB/2.4MB-2.6MB-2.8MB over 3)
+  * com.pandora.android:MarshmallowDozeService / u0a229 / v82011:
+           TOTAL: 20% (5.1MB-5.3MB-5.5MB/3.6MB-3.9MB-4.0MB over 11)
+             Top: 2.5% (5.1MB-5.4MB-5.5MB/3.6MB-3.9MB-4.0MB over 4)
+          Imp Fg: 17% (5.1MB-5.3MB-5.5MB/3.6MB-3.8MB-4.0MB over 7)
+        Bg TOTAL: 0.55%
+        (Cached): 0.55%
+  * wsj.reader_sp / u0a230 / v380085:
+           TOTAL: 8.8% (175MB-234MB-274MB/160MB-218MB-259MB over 6)
+             Top: 8.7% (175MB-234MB-274MB/160MB-218MB-259MB over 6)
+         Service: 0.12%
+        Bg TOTAL: 2.7% (23MB-23MB-23MB/21MB-21MB-21MB over 2)
+      (Last Act): 0.02%
+        (Cached): 2.7% (23MB-23MB-23MB/21MB-21MB-21MB over 2)
+  * com.instagram.android / u0a129 / v51631982:
+           TOTAL: 3.0% (143MB-146MB-148MB/136MB-138MB-140MB over 2)
+             Top: 2.9% (143MB-146MB-148MB/136MB-138MB-140MB over 2)
+         Service: 0.03%
+        Receiver: 0.03%
+        Bg TOTAL: 88% (13MB-16MB-18MB/8.9MB-13MB-14MB over 21)
+      (Last Act): 0.01%
+        (Cached): 88% (13MB-16MB-18MB/8.9MB-13MB-14MB over 21)
+  * com.instagram.android:igplayer / u0a129 / v51631982:
+           TOTAL: 2.9% (5.7MB-10MB-15MB/3.1MB-7.5MB-12MB over 2)
+             Top: 2.9% (5.7MB-10MB-15MB/3.1MB-7.5MB-12MB over 2)
+        Bg TOTAL: 0.01%
+      (Last Act): 0.01%
+  * com.google.android.gm / u0a142 / v58972787:
+           TOTAL: 1.4% (124MB-128MB-132MB/119MB-123MB-128MB over 2)
+             Top: 1.4% (124MB-128MB-132MB/119MB-123MB-128MB over 2)
+          Imp Fg: 0.01%
+        Bg TOTAL: 0.45% (18MB-18MB-18MB/17MB-17MB-17MB over 1)
+      (Last Act): 0.02%
+        (Cached): 0.43% (18MB-18MB-18MB/17MB-17MB-17MB over 1)
+  * com.google.android.apps.photos / u0a170 / v826190:
+           TOTAL: 0.98%
+         Service: 0.93%
+        Receiver: 0.04%
+        Bg TOTAL: 77% (13MB-17MB-23MB/13MB-17MB-21MB over 20)
+        (Cached): 77% (13MB-17MB-23MB/13MB-17MB-21MB over 20)
+  * com.google.android.gms.feedback / u0a18 / v10298440:
+           TOTAL: 0.69% (4.5MB-11MB-17MB/2.1MB-8.1MB-14MB over 2)
+             Top: 0.69% (4.5MB-11MB-17MB/2.1MB-8.1MB-14MB over 2)
+        Bg TOTAL: 33% (2.8MB-9.0MB-15MB/440KB-6.4MB-12MB over 11)
+      (Last Act): 0.02%
+        (Cached): 33% (2.8MB-9.0MB-15MB/440KB-6.4MB-12MB over 11)
+  * com.android.defcontainer / u0a6 / v23:
+           TOTAL: 0.67% (3.1MB-3.1MB-3.1MB/2.5MB-2.5MB-2.5MB over 1)
+          Imp Fg: 0.67% (3.1MB-3.1MB-3.1MB/2.5MB-2.5MB-2.5MB over 1)
+        Bg TOTAL: 0.91%
+        (Cached): 0.91%
+  * com.google.android.talk / u0a146 / v23910504:
+           TOTAL: 0.49%
+         Service: 0.44%
+        Receiver: 0.05%
+        Bg TOTAL: 57% (24MB-26MB-27MB/21MB-23MB-24MB over 8)
+        (Cached): 57% (24MB-26MB-27MB/21MB-23MB-24MB over 8)
+  * com.lookout / u0a27 / v10100019:
+           TOTAL: 0.39%
+         Service: 0.36%
+        Receiver: 0.02%
+        Bg TOTAL: 39% (29MB-39MB-48MB/25MB-36MB-45MB over 11)
+        (Cached): 39% (29MB-39MB-48MB/25MB-36MB-45MB over 11)
+  * com.ampsvc.android / u0a83 / v5072:
+           TOTAL: 0.33%
+         Service: 0.30%
+        Receiver: 0.03%
+        Bg TOTAL: 78% (12MB-15MB-21MB/11MB-14MB-20MB over 19)
+        (Cached): 78% (12MB-15MB-21MB/11MB-14MB-20MB over 19)
+  * com.EAGINsoftware.dejaloYa / u0a232 / v5048001:
+           TOTAL: 0.33%
+         Service: 0.16%
+        Receiver: 0.17%
+        Bg TOTAL: 99% (16MB-24MB-30MB/14MB-22MB-27MB over 84)
+        (Cached): 99% (16MB-24MB-30MB/14MB-22MB-27MB over 84)
+  * com.android.providers.calendar / u0a52 / v23:
+           TOTAL: 0.18%
+         Service: 0.18%
+        Bg TOTAL: 70% (4.5MB-4.7MB-4.8MB/4.1MB-4.2MB-4.3MB over 16)
+        (Cached): 70% (4.5MB-4.7MB-4.8MB/4.1MB-4.2MB-4.3MB over 16)
+  * com.google.process.gapps / u0a18 / v23:
+           TOTAL: 0.18%
+             Top: 0.04%
+          Imp Fg: 0.01%
+          Imp Bg: 0.02%
+         Service: 0.09%
+        Receiver: 0.03%
+        Bg TOTAL: 99% (4.1MB-5.1MB-5.8MB/3.7MB-4.7MB-5.3MB over 30)
+        (Cached): 99% (4.1MB-5.1MB-5.8MB/3.7MB-4.7MB-5.3MB over 30)
+  * com.cequint.ecid / u0a9 / v545660:
+           TOTAL: 0.18%
+         Service: 0.17%
+        Receiver: 0.01%
+        Bg TOTAL: 0.64%
+        (Cached): 0.64%
+  * com.samsung.enhanceservice / 5004 / v1:
+           TOTAL: 0.18%
+         Service: 0.08%
+      Service Rs: 0.10%
+        Bg TOTAL: 2.8% (2.5MB-2.5MB-2.6MB/2.2MB-2.2MB-2.2MB over 2)
+        (Cached): 2.8% (2.5MB-2.5MB-2.6MB/2.2MB-2.2MB-2.2MB over 2)
+  * com.samsung.dcmservice / 5004 / v1:
+           TOTAL: 0.17%
+         Service: 0.08%
+      Service Rs: 0.10%
+        Bg TOTAL: 2.8% (2.8MB-2.8MB-2.8MB/2.4MB-2.5MB-2.5MB over 2)
+        (Cached): 2.8% (2.8MB-2.8MB-2.8MB/2.4MB-2.5MB-2.5MB over 2)
+  * com.samsung.android.email.provider / u0a55 / v333803000:
+           TOTAL: 0.17%
+             Top: 0.10%
+         Service: 0.07%
+        Bg TOTAL: 57% (8.9MB-9.0MB-9.2MB/6.5MB-6.7MB-6.8MB over 9)
+      (Last Act): 0.01%
+        (Cached): 57% (8.9MB-9.0MB-9.2MB/6.5MB-6.7MB-6.8MB over 9)
+  * com.samsung.faceservice / 5004 / v1:
+           TOTAL: 0.13%
+         Service: 0.03%
+      Service Rs: 0.11%
+        Bg TOTAL: 2.7% (24MB-24MB-24MB/23MB-23MB-24MB over 2)
+        (Cached): 2.7% (24MB-24MB-24MB/23MB-23MB-24MB over 2)
+  * com.samsung.ipservice / 5004 / v1:
+           TOTAL: 0.11%
+         Service: 0.03%
+      Service Rs: 0.08%
+        Bg TOTAL: 2.8% (2.9MB-2.9MB-2.9MB/2.5MB-2.5MB-2.6MB over 2)
+        (Cached): 2.8% (2.9MB-2.9MB-2.9MB/2.5MB-2.5MB-2.6MB over 2)
+  * com.google.android.gms.unstable / u0a18 / v10298440:
+           TOTAL: 0.11%
+         Service: 0.11%
+        Bg TOTAL: 0.09%
+        (Cached): 0.09%
+  * com.google.android.gms.ui / u0a18 / v10298440:
+           TOTAL: 0.10%
+         Service: 0.10%
+        Bg TOTAL: 20% (13MB-13MB-13MB/11MB-11MB-11MB over 1)
+        (Cached): 20% (13MB-13MB-13MB/11MB-11MB-11MB over 1)
+  * com.att.mobiletransfer / u0a31 / v1612142138:
+           TOTAL: 0.10%
+        Receiver: 0.10%
+        Bg TOTAL: 44% (17MB-18MB-19MB/16MB-17MB-18MB over 14)
+        (Cached): 44% (17MB-18MB-19MB/16MB-17MB-18MB over 14)
+  * com.soundcloud.android / u0a307 / v607:
+           TOTAL: 0.09%
+          Imp Bg: 0.09%
+        Bg TOTAL: 30% (42MB-74MB-120MB/38MB-69MB-113MB over 5)
+        (Cached): 30% (42MB-74MB-120MB/38MB-69MB-113MB over 5)
+  * com.samsung.aasaservice / 1000 / v4:
+           TOTAL: 0.09%
+         Service: 0.02%
+      Service Rs: 0.02%
+        Receiver: 0.06%
+        Bg TOTAL: 7.3% (2.4MB-2.4MB-2.5MB/2.1MB-2.1MB-2.1MB over 3)
+        (Cached): 7.3% (2.4MB-2.4MB-2.5MB/2.1MB-2.1MB-2.1MB over 3)
+  * com.myscript.atk.rmc.service.sample / u0a175 / v1503060056:
+           TOTAL: 0.09%
+         Service: 0.06%
+        Receiver: 0.03%
+        Bg TOTAL: 96% (711KB-2.0MB-2.6MB/368KB-1.7MB-2.3MB over 20)
+        (Cached): 96% (711KB-2.0MB-2.6MB/368KB-1.7MB-2.3MB over 20)
+  * com.raterhub.mera / u0a34 / v39:
+           TOTAL: 0.09%
+         Service: 0.08%
+        Receiver: 0.01%
+        Bg TOTAL: 0.90% (23MB-23MB-23MB/16MB-16MB-16MB over 1)
+        (Cached): 0.90% (23MB-23MB-23MB/16MB-16MB-16MB over 1)
+  * com.samsung.cmh:CMH / 5004 / v203300000:
+           TOTAL: 0.08%
+         Service: 0.08%
+        Bg TOTAL: 2.9% (10MB-11MB-11MB/9.8MB-10MB-10MB over 2)
+        (Cached): 2.9% (10MB-11MB-11MB/9.8MB-10MB-10MB over 2)
+  * com.tekoia.sure.activities / u0a91 / v82:
+           TOTAL: 0.08%
+        Receiver: 0.08%
+        Bg TOTAL: 20% (30MB-30MB-31MB/27MB-27MB-28MB over 6)
+        (Cached): 20% (30MB-30MB-31MB/27MB-27MB-28MB over 6)
+  * com.doapps.android.mln.MLN_fac245c0cd451a91e8fa12de5db066de / u0a2 / v49080470:
+           TOTAL: 0.07%
+         Service: 0.07%
+        Receiver: 0.01%
+        Bg TOTAL: 26% (18MB-18MB-19MB/15MB-16MB-16MB over 5)
+        (Cached): 26% (18MB-18MB-19MB/15MB-16MB-16MB over 5)
+  * android.process.acore / u0a26 / v19:
+           TOTAL: 0.07%
+             Top: 0.01%
+          Imp Fg: 0.01%
+          Imp Bg: 0.02%
+         Service: 0.02%
+        Receiver: 0.01%
+        Bg TOTAL: 100% (7.0MB-9.4MB-12MB/6.3MB-8.7MB-12MB over 28)
+        (Cached): 100% (7.0MB-9.4MB-12MB/6.3MB-8.7MB-12MB over 28)
+  * com.google.android.gms:car / u0a18 / v10298440:
+           TOTAL: 0.06%
+          Imp Bg: 0.06%
+        Bg TOTAL: 0.46% (15MB-15MB-15MB/13MB-13MB-13MB over 1)
+        (Cached): 0.46% (15MB-15MB-15MB/13MB-13MB-13MB over 1)
+  * com.sec.android.daemonapp / u0a217 / v125101001:
+           TOTAL: 0.05%
+         Service: 0.02%
+        Receiver: 0.04%
+        Bg TOTAL: 93% (4.9MB-6.5MB-7.2MB/4.3MB-5.9MB-6.6MB over 23)
+        (Cached): 93% (4.9MB-6.5MB-7.2MB/4.3MB-5.9MB-6.6MB over 23)
+  * com.ubercab / u0a209 / v33704:
+           TOTAL: 0.05%
+        Receiver: 0.05%
+        Bg TOTAL: 1.4% (62MB-62MB-63MB/58MB-59MB-59MB over 2)
+        (Cached): 1.4% (62MB-62MB-63MB/58MB-59MB-59MB over 2)
+  * com.google.android.apps.docs / u0a124 / v70631440:
+           TOTAL: 0.05%
+        Receiver: 0.05%
+        Bg TOTAL: 8.7% (27MB-27MB-27MB/25MB-25MB-25MB over 4)
+        (Cached): 8.7% (27MB-27MB-27MB/25MB-25MB-25MB over 4)
+  * com.sec.android.app.samsungapps / u0a16 / v420405330:
+           TOTAL: 0.05%
+         Service: 0.03%
+        Receiver: 0.02%
+        Bg TOTAL: 69% (9.9MB-10MB-12MB/9.4MB-9.9MB-11MB over 18)
+        (Cached): 69% (9.9MB-10MB-12MB/9.4MB-9.9MB-11MB over 18)
+  * com.android.calendar / u0a185 / v316602000:
+           TOTAL: 0.04%
+         Service: 0.01%
+        Receiver: 0.03%
+        Bg TOTAL: 71% (7.5MB-7.8MB-7.9MB/6.9MB-7.1MB-7.2MB over 17)
+        (Cached): 71% (7.5MB-7.8MB-7.9MB/6.9MB-7.1MB-7.2MB over 17)
+  * com.samsung.android.snote:quicknote / u0a180 / v520125000:
+           TOTAL: 0.04%
+        Receiver: 0.04%
+        Bg TOTAL: 76% (5.2MB-6.0MB-6.3MB/2.7MB-2.8MB-3.0MB over 17)
+        (Cached): 76% (5.2MB-6.0MB-6.3MB/2.7MB-2.8MB-3.0MB over 17)
+  * com.osp.app.signin / u0a48 / v220190000:
+           TOTAL: 0.04%
+         Service: 0.03%
+        Receiver: 0.01%
+        Bg TOTAL: 11% (6.7MB-7.5MB-8.3MB/6.2MB-7.0MB-7.7MB over 4)
+        (Cached): 11% (6.7MB-7.5MB-8.3MB/6.2MB-7.0MB-7.7MB over 4)
+  * com.facebook.appmanager / u0a128 / v50573461:
+           TOTAL: 0.03%
+         Service: 0.02%
+        Receiver: 0.01%
+        Bg TOTAL: 42% (7.7MB-11MB-11MB/5.7MB-8.6MB-8.9MB over 13)
+        (Cached): 42% (7.7MB-11MB-11MB/5.7MB-8.6MB-8.9MB over 13)
+  * com.sec.android.sidesync30 / u0a198 / v504:
+           TOTAL: 0.03%
+        Receiver: 0.03%
+        Bg TOTAL: 38% (6.8MB-8.1MB-9.0MB/4.8MB-6.2MB-6.9MB over 10)
+        (Cached): 38% (6.8MB-8.1MB-9.0MB/4.8MB-6.2MB-6.9MB over 10)
+  * com.policydm / 1000 / v417800000:
+           TOTAL: 0.03%
+         Service: 0.02%
+        Receiver: 0.01%
+        Bg TOTAL: 7.3% (6.3MB-6.3MB-6.3MB/5.7MB-5.7MB-5.8MB over 3)
+        (Cached): 7.3% (6.3MB-6.3MB-6.3MB/5.7MB-5.7MB-5.8MB over 3)
+  * com.sec.android.app.sbrowser / u0a178 / v403018042:
+           TOTAL: 0.03%
+        Receiver: 0.03%
+        Bg TOTAL: 82% (6.1MB-7.9MB-8.4MB/4.4MB-6.1MB-6.5MB over 18)
+        (Cached): 82% (6.1MB-7.9MB-8.4MB/4.4MB-6.1MB-6.5MB over 18)
+  * com.samsung.storyservice / 5004 / v1:
+           TOTAL: 0.03%
+         Service: 0.03%
+        Bg TOTAL: 2.8% (4.4MB-4.4MB-4.5MB/4.0MB-4.0MB-4.1MB over 2)
+        (Cached): 2.8% (4.4MB-4.4MB-4.5MB/4.0MB-4.0MB-4.1MB over 2)
+  * com.google.process.gapps / u0a308 / v23:
+           TOTAL: 0.02%
+          Imp Bg: 0.02%
+        Bg TOTAL: 7.0% (5.8MB-5.8MB-5.8MB/5.0MB-5.0MB-5.0MB over 1)
+        (Cached): 7.0% (5.8MB-5.8MB-5.8MB/5.0MB-5.0MB-5.0MB over 1)
+  * com.google.android.videos / u0a213 / v32313002:
+           TOTAL: 0.02%
+         Service: 0.02%
+        Bg TOTAL: 0.52%
+        (Cached): 0.52%
+  * com.cequint.ecid:com.ims.process / u0a9 / v545660:
+           TOTAL: 0.02%
+         Service: 0.02%
+        Bg TOTAL: 19% (3.9MB-4.8MB-7.2MB/3.6MB-4.4MB-6.5MB over 5)
+        (Cached): 19% (3.9MB-4.8MB-7.2MB/3.6MB-4.4MB-6.5MB over 5)
+  * com.android.chrome / u0a112 / v292408701:
+           TOTAL: 0.02%
+         Service: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 7.4% (14MB-15MB-16MB/11MB-12MB-14MB over 5)
+        (Cached): 7.4% (14MB-15MB-16MB/11MB-12MB-14MB over 5)
+  * com.android.settings / 1000 / v23:
+           TOTAL: 0.02%
+        Receiver: 0.02%
+        Bg TOTAL: 27% (3.5MB-5.3MB-6.3MB/2.7MB-4.5MB-5.5MB over 6)
+        (Cached): 27% (3.5MB-5.3MB-6.3MB/2.7MB-4.5MB-5.5MB over 6)
+  * com.samsung.android.SettingsReceiver / 1000 / v23:
+           TOTAL: 0.02%
+        Receiver: 0.02%
+        Bg TOTAL: 88% (1.8MB-2.7MB-3.4MB/1.2MB-2.2MB-2.8MB over 19)
+        (Cached): 88% (1.8MB-2.7MB-3.4MB/1.2MB-2.2MB-2.8MB over 19)
+  * com.sec.android.app.billing / u0a46 / v410000006:
+           TOTAL: 0.02%
+        Receiver: 0.02%
+        Bg TOTAL: 53% (4.0MB-4.3MB-4.8MB/3.6MB-3.9MB-4.5MB over 15)
+        (Cached): 53% (4.0MB-4.3MB-4.8MB/3.6MB-3.9MB-4.5MB over 15)
+  * com.enhance.gameservice / u0a140 / v107000000:
+           TOTAL: 0.02%
+        Receiver: 0.01%
+        Bg TOTAL: 46% (2.6MB-3.0MB-3.5MB/2.2MB-2.7MB-3.1MB over 11)
+        (Cached): 46% (2.6MB-3.0MB-3.5MB/2.2MB-2.7MB-3.1MB over 11)
+  * com.samsung.svoice.sync / u0a45 / v171801038:
+           TOTAL: 0.02%
+         Service: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 0.13%
+        (Cached): 0.13%
+  * com.sec.android.diagmonagent / 1000 / v411300100:
+           TOTAL: 0.02%
+        Receiver: 0.02%
+        Bg TOTAL: 18% (3.6MB-3.7MB-3.8MB/3.2MB-3.3MB-3.4MB over 3)
+        (Cached): 18% (3.6MB-3.7MB-3.8MB/3.2MB-3.3MB-3.4MB over 3)
+  * com.sec.spp.push:RemoteDlcProcess / u0a44 / v160100000:
+           TOTAL: 0.01%
+         Service: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 55% (4.0MB-4.2MB-4.3MB/3.4MB-3.7MB-3.8MB over 16)
+        (Cached): 55% (4.0MB-4.2MB-4.3MB/3.4MB-3.7MB-3.8MB over 16)
+  * com.yahoo.mobile.client.android.mail.att:com.yahoo.snp.service / u0a157 / v1315850:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 25% (7.2MB-7.3MB-7.4MB/6.8MB-6.9MB-7.0MB over 4)
+        (Cached): 25% (7.2MB-7.3MB-7.4MB/6.8MB-6.9MB-7.0MB over 4)
+  * com.sec.enterprise.knox.cloudmdm.smdms / u0a210 / v37:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 0.70%
+        (Cached): 0.70%
+  * com.samsung.android.app.watchmanager:contentprovider / u0a17 / v2116101261:
+           TOTAL: 0.01%
+         Service: 0.01%
+        Bg TOTAL: 32% (3.4MB-3.5MB-3.6MB/3.0MB-3.1MB-3.1MB over 4)
+        (Cached): 32% (3.4MB-3.5MB-3.6MB/3.0MB-3.1MB-3.1MB over 4)
+  * com.ubercab:processor / u0a209 / v33704:
+           TOTAL: 0.01%
+         Service: 0.01%
+  * com.sec.android.provider.badge / u0a105 / v101200001:
+           TOTAL: 0.01%
+             Top: 0.01%
+        Bg TOTAL: 61% (2.7MB-2.8MB-2.9MB/2.4MB-2.5MB-2.6MB over 12)
+        (Cached): 61% (2.7MB-2.8MB-2.9MB/2.4MB-2.5MB-2.6MB over 12)
+  * com.samsung.klmsagent / u0a25 / v2:
+           TOTAL: 0.01%
+         Service: 0.01%
+        Bg TOTAL: 100% (712KB-1.5MB-1.9MB/312KB-1.1MB-1.6MB over 25)
+        (Cached): 100% (712KB-1.5MB-1.9MB/312KB-1.1MB-1.6MB over 25)
+  * com.samsung.android.provider.shootingmodeprovider / u0a197 / v1:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 1.0%
+        (Cached): 1.0%
+  * com.samsung.android.intelligenceservice2 / 5010 / v240802000:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 0.71%
+        (Cached): 0.71%
+  * com.sec.app.TransmitPowerService / u0a75 / v1:
+           TOTAL: 0.01%
+         Service: 0.01%
+        Bg TOTAL: 2.1% (2.5MB-2.6MB-2.6MB/2.1MB-2.2MB-2.2MB over 2)
+        (Cached): 2.1% (2.5MB-2.6MB-2.6MB/2.1MB-2.2MB-2.2MB over 2)
+  * com.sec.android.widgetapp.samsungapps / u0a139 / v105052:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 29% (2.6MB-2.7MB-2.7MB/2.3MB-2.4MB-2.4MB over 9)
+        (Cached): 29% (2.6MB-2.7MB-2.7MB/2.3MB-2.4MB-2.4MB over 9)
+  * com.samsung.android.snote:sync / u0a180 / v520125000:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 25% (4.9MB-6.1MB-7.3MB/2.5MB-3.8MB-5.6MB over 5)
+        (Cached): 25% (4.9MB-6.1MB-7.3MB/2.5MB-3.8MB-5.6MB over 5)
+  * com.samsung.android.app.pinboard:sync / u0a49 / v1600900200:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 18% (4.6MB-4.7MB-4.8MB/3.1MB-3.1MB-3.2MB over 3)
+        (Cached): 18% (4.6MB-4.7MB-4.8MB/3.1MB-3.1MB-3.2MB over 3)
+  * com.sec.knox.switcher / 1000 / v4001002:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 19% (2.9MB-2.9MB-2.9MB/2.5MB-2.5MB-2.6MB over 3)
+        (Cached): 19% (2.9MB-2.9MB-2.9MB/2.5MB-2.5MB-2.6MB over 3)
+  * com.google.android.partnersetup / u0a21 / v23:
+           TOTAL: 0.01%
+        Bg TOTAL: 0.54%
+        (Cached): 0.54%
+  * com.samsung.android.themestore / u0a73 / v10330:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 20% (4.9MB-5.0MB-5.1MB/4.4MB-4.5MB-4.6MB over 4)
+        (Cached): 20% (4.9MB-5.0MB-5.1MB/4.4MB-4.5MB-4.6MB over 4)
+  * com.samsung.android.bbc.bbcagent / 1000 / v2:
+           TOTAL: 0.01%
+        Bg TOTAL: 0.69%
+        (Cached): 0.69%
+  * com.samsung.android.app.assistantmenu / 1000 / v158800111:
+           TOTAL: 0.01%
+        Bg TOTAL: 37% (3.3MB-3.4MB-3.5MB/2.9MB-3.0MB-3.2MB over 12)
+        (Cached): 37% (3.3MB-3.4MB-3.5MB/2.9MB-3.0MB-3.2MB over 12)
+  * com.sec.android.app.music:provider / u0a41 / v1619116800:
+           TOTAL: 0.01%
+         Service: 0.01%
+        Bg TOTAL: 2.3% (5.4MB-5.4MB-5.4MB/3.7MB-3.7MB-3.7MB over 1)
+        (Cached): 2.3% (5.4MB-5.4MB-5.4MB/3.7MB-3.7MB-3.7MB over 1)
+  * com.samsung.android.asksmanager / u0a56 / v100800000:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 0.99%
+        (Cached): 0.99%
+  * com.samsung.android.app.filterinstaller / 1000 / v200000000:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 1.6% (2.3MB-2.3MB-2.3MB/2.0MB-2.0MB-2.0MB over 1)
+        (Cached): 1.6% (2.3MB-2.3MB-2.3MB/2.0MB-2.0MB-2.0MB over 1)
+  * com.sec.android.iap / u0a24 / v306000:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 42% (3.0MB-3.1MB-3.3MB/2.6MB-2.7MB-2.9MB over 13)
+        (Cached): 42% (3.0MB-3.1MB-3.3MB/2.6MB-2.7MB-2.9MB over 13)
+  * com.samsung.android.sm.policy / u0a306 / v100700000:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 19% (2.7MB-2.8MB-2.9MB/2.4MB-2.4MB-2.5MB over 3)
+        (Cached): 19% (2.7MB-2.8MB-2.9MB/2.4MB-2.4MB-2.5MB over 3)
+  * com.sec.android.app.soundalive / u0a69 / v315300810:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 40% (2.5MB-2.6MB-2.8MB/2.2MB-2.2MB-2.4MB over 6)
+        (Cached): 40% (2.5MB-2.6MB-2.8MB/2.2MB-2.2MB-2.4MB over 6)
+  * com.android.keychain / 1000 / v23:
+           TOTAL: 0.01%
+        Bg TOTAL: 0.70%
+        (Cached): 0.70%
+  * com.samsung.knox.rcp.components / u0a173 / v4001020:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 36% (2.5MB-2.6MB-2.7MB/2.2MB-2.3MB-2.4MB over 12)
+        (Cached): 36% (2.5MB-2.6MB-2.7MB/2.2MB-2.3MB-2.4MB over 12)
+  * com.sec.android.app.popupuireceiver / 1000 / v1:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 3.2% (2.9MB-2.9MB-2.9MB/2.5MB-2.5MB-2.6MB over 2)
+        (Cached): 3.2% (2.9MB-2.9MB-2.9MB/2.5MB-2.5MB-2.6MB over 2)
+  * com.samsung.android.app.watchmanager / u0a17 / v2116101261:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 0.53%
+        (Cached): 0.53%
+  * com.samsung.android.app.watchmanagerstub / u0a141 / v111512310:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 10% (2.5MB-2.5MB-2.5MB/2.2MB-2.2MB-2.2MB over 1)
+        (Cached): 10% (2.5MB-2.5MB-2.5MB/2.2MB-2.2MB-2.2MB over 1)
+  * com.samsung.android.app.mirrorlink / 1000 / v105300007:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        Bg TOTAL: 1.6% (4.1MB-4.1MB-4.1MB/2.6MB-2.6MB-2.6MB over 1)
+        (Cached): 1.6% (4.1MB-4.1MB-4.1MB/2.6MB-2.6MB-2.6MB over 1)
+  * com.sec.tetheringprovision / u0a208 / v3:
+        Bg TOTAL: 0.84%
+        (Cached): 0.84%
+  * com.samsung.android.qconnect / u0a305 / v40:
+        Bg TOTAL: 29% (3.0MB-3.1MB-3.4MB/2.6MB-2.8MB-3.0MB over 10)
+        (Cached): 29% (3.0MB-3.1MB-3.4MB/2.6MB-2.8MB-3.0MB over 10)
+  * com.sec.android.sidesync.source / u0a199 / v121:
+        Bg TOTAL: 0.70%
+        (Cached): 0.70%
+  * com.facebook.system / u0a12 / v50573453:
+        Bg TOTAL: 8.3% (3.2MB-3.3MB-3.5MB/2.9MB-3.0MB-3.1MB over 4)
+        (Cached): 8.3% (3.2MB-3.3MB-3.5MB/2.9MB-3.0MB-3.1MB over 4)
+  * com.instagram.android:browser / u0a129 / v51631982:
+        Bg TOTAL: 1.2% (11MB-11MB-11MB/7.8MB-7.8MB-7.8MB over 1)
+        (Cached): 1.2% (11MB-11MB-11MB/7.8MB-7.8MB-7.8MB over 1)
+  * com.nianticlabs.pokemongo / u0a43 / v2017030300:
+        Bg TOTAL: 26% (4.3MB-4.5MB-4.6MB/3.1MB-3.2MB-3.2MB over 4)
+        (Cached): 26% (4.3MB-4.5MB-4.6MB/3.1MB-3.2MB-3.2MB over 4)
+  * com.android.contacts / u0a26 / v217202110:
+        Bg TOTAL: 100% (1.5MB-1.7MB-1.8MB/876KB-0.98MB-1.1MB over 18)
+        (Cached): 100% (1.5MB-1.7MB-1.8MB/876KB-0.98MB-1.1MB over 18)
+  * com.google.android.apps.photos:CameraShortcut / u0a170 / v826190:
+        Bg TOTAL: 19% (10MB-10MB-10MB/6.1MB-6.1MB-6.1MB over 2)
+        (Cached): 19% (10MB-10MB-10MB/6.1MB-6.1MB-6.1MB over 2)
+  * com.samsung.hs20provider / u0a150 / v1:
+        Bg TOTAL: 0.05%
+        (Cached): 0.05%
+  * com.wssnps / 1000 / v710900000:
+        Bg TOTAL: 3.3% (2.8MB-2.9MB-3.0MB/2.5MB-2.6MB-2.7MB over 2)
+        (Cached): 3.3% (2.8MB-2.9MB-3.0MB/2.5MB-2.6MB-2.7MB over 2)
+  * com.samsung.android.app.FileShareServer / 5005 / v19:
+        Bg TOTAL: 14% (3.2MB-3.2MB-3.3MB/1.9MB-2.0MB-2.0MB over 2)
+        (Cached): 14% (3.2MB-3.2MB-3.3MB/1.9MB-2.0MB-2.0MB over 2)
+  * com.sec.att.usagemanager3 / u0a211 / v1:
+        Bg TOTAL: 1.1% (2.8MB-2.8MB-2.8MB/2.5MB-2.5MB-2.5MB over 1)
+        (Cached): 1.1% (2.8MB-2.8MB-2.8MB/2.5MB-2.5MB-2.5MB over 1)
+  * com.mobeam.barcodeService / 1000 / v24:
+        Bg TOTAL: 9.1% (2.9MB-2.9MB-2.9MB/2.5MB-2.5MB-2.5MB over 1)
+        (Cached): 9.1% (2.9MB-2.9MB-2.9MB/2.5MB-2.5MB-2.5MB over 1)
+  * com.mobitv.client.tv / u0a85 / v20150921:
+        Bg TOTAL: 23% (3.3MB-3.4MB-3.6MB/2.2MB-2.2MB-2.3MB over 4)
+        (Cached): 23% (3.3MB-3.4MB-3.6MB/2.2MB-2.2MB-2.3MB over 4)
+  * com.android.mms / u0a62 / v219703110:
+        Bg TOTAL: 100% (2.1MB-2.4MB-2.7MB/0.89MB-1.2MB-1.6MB over 18)
+        (Cached): 100% (2.1MB-2.4MB-2.7MB/0.89MB-1.2MB-1.6MB over 18)
+  * com.samsung.android.app.FileShareClient / 5005 / v19:
+        Bg TOTAL: 4.5% (3.6MB-3.6MB-3.6MB/2.3MB-2.3MB-2.3MB over 1)
+        (Cached): 4.5% (3.6MB-3.6MB-3.6MB/2.3MB-2.3MB-2.3MB over 1)
+  * com.sec.android.app.music:service / u0a41 / v1619116800:
+        Bg TOTAL: 2.3% (5.7MB-5.7MB-5.7MB/4.1MB-4.1MB-4.1MB over 1)
+        (Cached): 2.3% (5.7MB-5.7MB-5.7MB/4.1MB-4.1MB-4.1MB over 1)
+  * com.samsung.android.securitylogagent / 1000 / v435200100:
+        Bg TOTAL: 14% (2.6MB-2.7MB-2.8MB/2.3MB-2.4MB-2.4MB over 2)
+        (Cached): 14% (2.6MB-2.7MB-2.8MB/2.3MB-2.4MB-2.4MB over 2)
+  * com.sec.android.Kies / 1000 / v1020:
+        Bg TOTAL: 0.41% (2.4MB-2.4MB-2.4MB/2.0MB-2.0MB-2.0MB over 1)
+        (Cached): 0.41% (2.4MB-2.4MB-2.4MB/2.0MB-2.0MB-2.0MB over 1)
+  * com.sec.hearingadjust / u0a23 / v205900700:
+        Bg TOTAL: 1.0% (2.6MB-2.6MB-2.6MB/2.3MB-2.3MB-2.3MB over 1)
+        (Cached): 1.0% (2.6MB-2.6MB-2.6MB/2.3MB-2.3MB-2.3MB over 1)
+  * com.android.managedprovisioning / u0a29 / v23:
+        Bg TOTAL: 100% (657KB-703KB-776KB/300KB-367KB-436KB over 18)
+        (Cached): 100% (657KB-703KB-776KB/300KB-367KB-436KB over 18)
+  * com.sec.android.service.sm / 1000 / v38:
+        Bg TOTAL: 100% (686KB-742KB-832KB/292KB-363KB-452KB over 18)
+        (Cached): 100% (686KB-742KB-832KB/292KB-363KB-452KB over 18)
+
+Run time Stats:
+  SOff/Norm: +1h39m29s600ms
+  SOn /Norm: +31m25s962ms
+      TOTAL: +2h10m55s562ms
+
+Memory usage:
+  Kernel : 503MB (78 samples)
+  Native : 48MB (78 samples)
+  Persist: 495MB (280 samples)
+  Top    : 168MB (268 samples)
+  ImpFg  : 138MB (640 samples)
+  ImpBg  : 12MB (286 samples)
+  Service: 379MB (1646 samples)
+  Receivr: 238KB (1696 samples)
+  Home   : 65MB (48 samples)
+  LastAct: 51KB (110 samples)
+  CchCAct: 98KB (6 samples)
+  CchEmty: 289MB (935 samples)
+  Cached : 0.94GB (78 samples)
+  Free   : 96MB (78 samples)
+  TOTAL  : 3.1GB
+  ServRst: 499KB (701 samples)
+
+          Start time: 2017-03-13 13:03:29
+  Total elapsed time: +3h1m55s276ms (partial) libart.so
